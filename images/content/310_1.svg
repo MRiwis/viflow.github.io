@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export 310_1.svg 4.2 Verstehen der Erforderniss -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="12.4016in" height="8.46457in"
+		viewBox="0 0 892.913 609.449" xml:space="preserve" color-interpolation-filters="sRGB" class="st16">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvConvertTheme"/>
+			<v:ud v:nameU="VIFLOW_Version" v:prompt="" v:val="VT4(6.00.0000)"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st3 {fill:#000000;font-family:Arial;font-size:1.5em;font-weight:bold}
+		.st4 {fill:#ffffff;font-family:Arial;font-size:1.5em;font-weight:bold}
+		.st5 {fill:#545454;stroke:#9e9fa2;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st6 {fill:#ffffff;font-family:Arial;font-size:0.666664em}
+		.st7 {fill:#000000;font-family:Arial;font-size:1.00001em}
+		.st8 {font-size:1em}
+		.st9 {font-size:1em;font-weight:bold}
+		.st10 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.72;visibility:hidden}
+		.st11 {fill:#ffffff;fill-opacity:0;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st12 {fill:#000000;font-family:Arial;font-size:1.16666em}
+		.st13 {font-size:1em;text-decoration:underline}
+		.st14 {marker-end:url(#mrkr13-69);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.72}
+		.st15 {fill:#000000;fill-opacity:0;stroke:#000000;stroke-opacity:0;stroke-width:0.22222222222222}
+		.st16 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-69" class="st15" v:arrowType="13" v:arrowSize="2" v:setback="13.5" refX="-13.5" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-4.5,-4.5) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung"
+					v:val="VT4(4.2 Verstehen der Erfordernisse und Erwartungen interessierter Parteien)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A"
+					v:val="VT4(4.2 Verstehen der Erfordernisse und Erwartungen interessierter Parteien)"/>
+			<v:ud v:nameU="VIFLOW__Firmenname" v:val="VT4(iwis motorsysteme)"/>
+			<v:ud v:nameU="VIFLOW__Bereiche_Stammdaten__ModellerAreaID__Stammdaten__Bezeichnung_A" v:val="VT4(ivanbal)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__CreationDate" v:val="VT4(23.08.2017)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__ModifiedDate" v:val="VT4(16.10.2020)"/>
+			<v:ud v:nameU="VIFLOW__DatabaseName" v:val="VT4(PRIMAS_4)"/>
+			<v:ud v:nameU="VIFLOW__Bereiche_Stammdaten__PrueferBereichID__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4()"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__VerificationDate" v:prompt="" v:val="VT4()"/>
+			<v:ud v:nameU="VIFLOW__Bereiche_Stammdaten__FreigeberBereichID__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4()"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__ReleaseDate" v:prompt="" v:val="VT4()"/>
+		</v:userDefs>
+		<title>4.2 Verstehen der Erforderniss</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="2.83465"
+				v:shadowOffsetY="-2.83465"/>
+		<v:layer v:name="Daten" v:index="0"/>
+		<v:layer v:name="Bereich" v:index="1" v:snap="false" v:glue="false"/>
+		<v:layer v:name="Wasserzeichen" v:index="2" v:snap="false" v:glue="false"/>
+		<v:layer v:name="MitGDoks" v:index="3" color="#ff0000"/>
+		<v:layer v:name="Prozess" v:index="4"/>
+		<v:layer v:name="Verzweigung" v:index="5"/>
+		<v:layer v:name="Beschriftung" v:index="6"/>
+		<g id="shape14-1" v:mID="14" v:groupContext="shape" transform="translate(730.394,-481.89)">
+			<title>Tabelle.14</title>
+			<rect v:rectContext="foreign" x="0" y="514.199" width="120" height="95.25" class="st1"/>
+			<image x="0" y="514.199" width="120" height="95.25" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVB
+						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"/>
+			<rect v:rectContext="foreign" x="0" y="514.199" width="120" height="95.25" class="st1"/>
+		</g>
+		<g id="group15-5" transform="translate(22.6772,-524.409)" v:mID="15" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({00000000-0000-0000-0000-000000000000})"/>
+			</v:userDefs>
+			<title>Titelzeile einfach</title>
+			<g id="shape16-6" v:mID="16" v:groupContext="shape">
+				<title>Tabelle.16</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="360" cy="597.954" width="720" height="22.99"/>
+				<rect x="0" y="586.459" width="720" height="22.99" class="st2"/>
+				<text x="4" y="603.35" class="st3" v:langID="1031"><v:paragraph/><v:tabList/>4.2 Verstehen der Erfordernisse und Erwartungen interessierter Parteien</text>			</g>
+			<g id="shape17-9" v:mID="17" v:groupContext="shape" transform="translate(257.073,-31.0247)">
+				<title>Tabelle.17</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="173.793" cy="597.954" width="347.59" height="22.99"/>
+				<text x="181.52" y="603.35" class="st4" v:langID="1031"><v:paragraph v:horizAlign="2"/><v:tabList/>iwis motorsysteme</text>			</g>
+		</g>
+		<g id="group1-11" transform="translate(22.6772,-28.3465)" v:mID="1" v:groupContext="group">
+			<title>Fußzeile einfach</title>
+			<g id="shape2-12" v:mID="2" v:groupContext="shape">
+				<title>Tabelle.2</title>
+				<desc>Ersteller:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="107.092" cy="603.78" width="214.19" height="11.3386"/>
+				<rect x="0" y="598.11" width="214.185" height="11.3386" class="st5"/>
+				<text x="4" y="606.18" class="st6" v:langID="1031"><v:paragraph/><v:tabList/>Ersteller: ivanbal</text>			</g>
+			<g id="shape3-15" v:mID="3" v:groupContext="shape" transform="translate(214.119,0)">
+				<title>Tabelle.3</title>
+				<desc>Erstelldatum:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="107.092" cy="603.78" width="214.19" height="11.3386"/>
+				<rect x="0" y="598.11" width="214.185" height="11.3386" class="st5"/>
+				<text x="4" y="606.18" class="st6" v:langID="1031"><v:paragraph/><v:tabList/>Erstelldatum: 23.08.2017</text>			</g>
+			<g id="shape4-18" v:mID="4" v:groupContext="shape" transform="translate(428.304,0)">
+				<title>Tabelle.4</title>
+				<desc>letzte Änderung:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="99.5354" cy="603.78" width="199.08" height="11.3386"/>
+				<rect x="0" y="598.11" width="199.071" height="11.3386" class="st5"/>
+				<text x="4" y="606.18" class="st6" v:langID="1031"><v:paragraph/><v:tabList/>letzte Änderung: 16.10.2020</text>			</g>
+			<g id="shape5-21" v:mID="5" v:groupContext="shape" transform="translate(627.255,0)">
+				<title>Tabelle.5</title>
+				<desc>Datenbank:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="110.152" cy="603.78" width="220.31" height="11.3386"/>
+				<rect x="0" y="598.11" width="220.304" height="11.3386" class="st5"/>
+				<text x="4" y="606.18" class="st6" v:langID="1031"><v:paragraph/><v:tabList/>Datenbank: PRIMAS_4</text>			</g>
+		</g>
+		<g id="shape7-24" v:mID="7" v:groupContext="shape" transform="translate(9.99201E-16,-267.775)">
+			<title>Tabelle.7</title>
+			<rect v:rectContext="foreign" x="0" y="395.334" width="14.1732" height="214.115" class="st1"/>
+			<switch>
+				<foreignObject x="0" y="395.334" width="14.1732" height="214.115"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="58880" v:data="data:metafile;base64,eNrt3clOFFEYhu
+								G/ukBGBxCxxQnnWQEFxRkQFJUGcZ5FRYEGGTUxJCy8Ezfu9QpYuDTRrXGjd+DChRu7/ar6NBLEhEaIwbwnvEnRw1Mc6tDF7n
+								x4X/T55euyLzZlHDffEsk8WzTpMc8VjmVmEfd9IplMph9OMhbU+KGOuGsYlK3j4JrnqFyVp/JVgSpUi9UStTS1BKxIFavlqk
+								StUKVqpYqqVapMrVZr1Fq1Tq1X5WqD2qg2qc1qi9qqtqntaofaqXap3WqP2qv2qQpVqarUfnVAVasadVAdUrXq8KT5HQvXtt
+								kJdVLVqXrVoE6pRtWkTqszqlmdVefUedWiYqpVtakLql1dVJfUZXVFXVXX1HV1Q91Ut9RtdUfdVfdUh7qvHqiHqlM9Uo9Vl+
+								pWPSquelWfeqL61YAadHOb7WiX1G8juhaNckdsyJ5bJqPUsif+5iPhWvHDx8dTTzdN9x7/1/P6/GjVvDpttiPfIt7k+cz0fS
+								UT52/Q/Pv0u2zVdejJ+PzFOr/n5jTT83tuHQUj4ubfpt98pw1rTVeE63qmI+rmn5XB+YPXVvWmjhPuuiUW1KcWY66Gl7qNz3
+								p4Wjl+fmrtTf3bD+4hbfVDT4e7bPrDb7VvBo3xL0dw3Xz3meC579MLYlQHo7oRf40Hz+k/Af97cHu1j9XpTxHfy7XgP4bCyI
+								tENDwqCN8cHOV4We61dQXl9s7GvGioBq80d3cPjsa8QE89NhD//SestE9//6VZ4eDg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4O
+								Dg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4O
+								Dg4ODg4ODg4MyH4/9hp7BYXayZ/dL+t5Hef7PSKixmHTZi3fYsg/04yyxime6/eVS9jc/tHnaZ7v8513voLdTzj+s61Le8cl
+								ejhn35cHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+								BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBw/hNnfvYO+wliwHZB"/>
+				</foreignObject>
+				<svg viewBox="0 0 39.232 591.8" enable-background="new" color-interpolation-filters="sRGB" height="214.115"
+						preserveAspectRatio="none" width="14.1732" x="0" y="395.334">
+					<defs>
+						<clipPath id="mfid330">
+							<rect id="mfid331" x="0" y="0" width="39.232" height="591.8"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid330)">
+						<mask id="mfid329" fill-rule="evenodd">
+							<g>
+								<rect width="39" height="592" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid329)">
+							<g transform="matrix(1.625, 0, 0, -1.5497, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<image width="24" height="382" transform="scale(1,-1)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAF+CAIAAAAXz01cAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACzSURBVHhe7cwxDcAwAASxUCp/KAXzheChGU/y7POe579tRVBkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRXYv2j4xWWW3uRfAfQAAAABJRU5ErkJggg=="/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid332" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="39" height="592"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="395.334" width="14.1732" height="214.115" class="st1"/>
+		</g>
+		<g id="shape19-27" v:mID="19" v:groupContext="shape" transform="translate(28.3465,-297.638)">
+			<title>Tabelle.19</title>
+			<desc>Als interessierte Parteien haben wir Kunden, Eigentümer/Gesel...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="198.425" cy="517.323" width="396.86" height="184.252"/>
+			<rect x="0" y="425.197" width="396.85" height="184.252" class="st1"/>
+			<text x="0.333em 1em 1.223em 1.723em 2.056em 2.278em 2.834em 3.112em 3.668em 4.001em 4.557em 5.057em 5.557em 5.779em
+						 6.335em 6.668em 6.946em 7.502em 7.836em 8.503em 9.059em 9.392em 9.67em 10.226em 10.448em 11.004em 11.56em
+						 11.893em 12.449em 13.006em 13.562em 14.118em 14.674em 15.007em 15.729em 15.951em 16.284em 16.617em 17.284em
+						 17.841em 18.397em 18.953em 19.509em 20.065em 20.343em 20.676em 21.343em 21.565em 22.121em 22.678em 23.234em
+						 23.512em 24.068em 24.901em 25.457em 25.79em 26.068em 26.846em 27.402em 27.902em 28.458em 28.68em 28.902em
+						 29.402em 29.902em 30.458em 31.015em 31.292em 31.57em 32.126em 32.459em 32.737em" y="440" class="st7"
+					v:langID="1031"><v:paragraph v:horizAlign="3"/><v:tabList/>Als interessierte Parteien haben wir Kunden, Eigentümer/Gesellschafter, <tspan
+						x="0.333em 1.166em 1.389em 1.666em 2.223em 2.556em 3.112em 3.668em 3.89em 4.168em 4.724em 5.057em 5.335em
+							 5.935em 6.546em 6.879em 7.435em 8.268em 8.824em 9.324em 9.88em 10.436em 10.658em 10.936em 11.492em 11.715em
+							 12.271em 12.827em 13.383em 13.939em 14.272em 14.55em 15.15em 15.706em 15.928em 16.484em 16.762em 17.318em
+							 17.651em 18.208em 18.764em 19.042em 19.598em 20.154em 20.432em 21.032em 21.975em 22.532em 22.809em 23.087em
+							 23.643em 24.2em 24.922em 25.478em 25.811em 26.367em 26.923em 27.256em 27.534em 28.134em 28.801em 29.079em
+							 29.635em 30.191em 30.469em 31.069em 31.625em 32.181em 32.737em" dy="1.2em" class="st8">Mitarbeiter, Fremdkapitalgeber, Lieferanten, Wettbewerber, Staat und </tspan><tspan
+						x="0.333em 1.111em 1.667em 2.167em 2.723em 2.946em 3.168em 3.668em 4.168em 4.724em 5.28em 5.558em 5.836em
+							 6.114em 7.988em 8.821em 9.378em 9.934em 10.49em 11.046em 11.602em 12.435em 12.991em 13.548em 13.825em
+							 14.103em 15.978em 16.478em 17.034em 17.367em 17.923em 18.479em 19.036em 19.592em 20.148em 20.704em 21.26em
+							 23.135em 23.857em 24.413em 24.691em 25.247em 25.58em 26.136em 26.693em 27.249em 28.082em 28.638em 29.194em
+							 31.069em 31.625em 32.181em 32.737em" dy="1.2em" class="st8">Gesellschaft, Management, verbundene Unternehmen und </tspan><tspan
+						x="0.333em 1em 1.556em 2.113em 2.669em 3.225em 3.558em 4.114em 4.392em 4.614em 5.17em 5.726em 6.226em 6.783em
+							 7.339em 7.672em 7.95em 8.506em 9.062em 9.395em 9.673em 10.229em 10.562em 11.395em 11.617em 11.895em
+							 12.173em 12.729em 12.951em 13.229em 13.507em" dy="1.2em" class="st8">Kooperationspartner ermittelt. <v:newlineChar/></tspan><tspan
+						x="0.333em 0.611em 1.444em 1.833em 2.555em 3.111em 3.668em 4.501em 5.057em 5.613em 6.002em 6.558em 7.114em
+							 7.447em 7.836em 8.558em 9.114em 9.392em 9.948em 10.281em 10.837em 11.394em 11.95em 12.783em 13.339em
+							 13.895em 14.395em 14.895em 15.173em 15.506em 16.062em 16.34em 16.896em 17.452em 17.674em 18.23em 18.619em
+							 19.341em 19.564em 20.12em 20.509em 21.065em 21.621em 22.121em 22.677em 23.066em 23.288em 24.121em 24.51em
+							 25.066em 25.622em 26.178em 26.511em 27.068em 27.345em 27.568em 28.068em 28.624em 29.18em 29.569em 30.236em
+							 30.792em 31.07em 31.403em 31.625em 32.181em 32.737em" dy="1.2em" class="st8">Im Rahmen der Unternehmensstrategie wie auch im operativen Betrieb </tspan><tspan
+						x="0.333em 0.556em 1.056em 1.333em 1.759em 2.315em 2.815em 3.241em 3.797em 4.019em 4.575em 5.131em 5.557em
+							 6.279em 6.835em 7.335em 7.891em 8.447em 8.725em 8.947em 9.17em 9.67em 10.226em 10.782em 11.207em 11.874em
+							 12.431em 12.708em 13.265em 13.821em 14.377em 14.933em 15.358em 15.915em 16.471em 16.804em 17.229em 18.007em
+							 18.34em 18.896em 19.452em 20.009em 20.231em 20.731em 21.287em 21.565em 21.787em 22.343em 22.899em 23.177em
+							 23.603em 24.159em 24.381em 24.937em 25.363em 26.03em 26.586em 27.142em 27.698em 28.031em 28.309em 28.865em
+							 29.087em 29.587em 30.087em 30.643em 31.069em 31.625em 32.181em 32.737em" dy="1.2em" class="st8">ist es eine wesentliche Aufgabe der Organisation, die Bedürfnisse und </tspan><tspan
+						x="0.333em 1em 1.333em 2.056em 2.612em 2.945em 3.222em 3.779em 4.335em 4.891em 5.447em 6.003em 6.753em 7.309em
+							 7.865em 8.198em" dy="1.2em" class="st8">Erwartungen der </tspan><tspan x="8.948em 9.226em 9.837em 10.17em
+							 10.726em 11.115em 11.671em 12.228em 12.784em 13.062em 13.618em 14.007em 14.34em 14.896em 15.507em 16.257em
+							 16.924em 17.48em 17.869em 18.202em 18.758em 19.036em 19.592em 20.203em" dy="0em" class="st9">interessierten Parteien </tspan><tspan
+						x="20.953em 21.453em 22.009em 22.759em 23.259em 23.815em 24.371em 24.927em 25.483em 26.04em 26.789em 27.346em
+							 27.902em 28.458em 29.208em 29.764em 30.32em 30.542em 31.292em 31.848em 32.404em 32.737em" dy="0em"
+						class="st8">zu kennen und bei der </tspan><tspan x="0.333em 1em 1.556em 1.834em 2.556em 2.779em 3.279em 3.779em
+							 4.001em 4.557em 5.113em 5.669em 6.265em 6.821em 7.377em 7.71em 8.305em 9.083em 9.416em 9.972em 10.528em
+							 11.084em 11.307em 11.807em 12.363em 12.641em 12.863em 13.419em 13.975em 14.57em 15.07em 15.626em 16.222em
+							 16.778em 17.334em 17.667em 18.223em 18.723em 19.223em 19.723em 19.945em 20.445em 21.001em 21.279em 21.501em
+							 22.058em 22.614em 23.17em 23.448em 24.043em 24.765em 24.987em 25.543em 25.876em 26.376em 26.933em 27.528em
+							 28.25em 28.806em 29.139em 29.695em 30.251em 30.808em 31.403em 31.959em 32.181em 32.737em" dy="1.2em"
+						class="st8">Entwicklung der Organisation zu berücksichtigen. Hierzu werden die </tspan><tspan x="0.333em
+							 0.556em 1.112em 1.39em 1.946em 2.279em 2.835em 3.335em 3.835em 4.057em 4.613em 4.946em 5.224em 5.78em
+							 6.336em 7.179em 7.846em 8.402em 8.735em 9.013em 9.569em 9.791em 10.347em 10.903em 11.745em 11.968em
+							 12.524em 13.08em 13.413em 13.635em 13.857em 14.357em 14.913em 15.756em 16.312em 16.868em 17.424em 17.646em
+							 18.146em 18.646em 18.868em 19.425em 19.758em 20.035em 20.878em 21.434em 21.99em 22.546em 23.388em 23.944em
+							 24.167em 24.723em 25.565em 26.121em 26.677em 26.955em 27.455em 28.011em 28.344em 28.9em 29.4em 29.957em
+							 30.513em 31.069em 31.625em 32.181em 32.737em" dy="1.2em" class="st8">interessierten Parteien jährlich analysiert und die entsprechenden </tspan><tspan
+						x="0.333em 1em 1.556em 1.834em 2.39em 2.723em 3.28em 3.836em 4.169em 4.725em 5.281em 5.837em 6.393em 6.95em
+							 7.473em 8.029em 8.585em 9.142em 9.665em 10.332em 10.665em 11.387em 11.943em 12.276em 12.554em 13.11em
+							 13.667em 14.223em 14.779em 15.335em 15.859em 16.081em 16.637em 17.16em 17.717em 17.939em 18.495em 19.051em
+							 19.384em 19.908em 20.63em 21.186em 21.742em 22.075em 22.575em 22.797em 23.297em 23.853em 24.131em 24.655em
+							 25.211em 25.767em 26.267em 26.823em 27.656em 28.212em 28.768em 29.046em 29.268em 29.825em 30.158em 30.435em
+							 30.713em 31.237em 31.959em 32.181em 32.737em" dy="1.2em" class="st8">Anforderungen und Erwartungen in einer Übersicht dokumentiert. Die </tspan><tspan
+						x="0.333em 0.889em 1.446em 1.723em 2.224em 2.78em 3.113em 3.669em 4.169em 4.725em 5.281em 5.837em 6.393em
+							 6.95em 7.506em 8.487em 9.154em 9.487em 10.043em 10.543em 11.099em 11.599em 12.099em 12.655em 13.636em
+							 14.192em 14.749em 15.305em 16.286em 17.008em 17.564em 18.064em 18.62em 19.453em 20.009em 20.566em 20.843em
+							 21.4em 22.381em 22.881em 23.103em 23.659em 24.215em 25.196em 25.863em 26.419em 26.919em 27.197em 27.753em
+							 28.309em 28.866em 29.143em 29.7em 29.922em 30.144em 31.125em 31.681em 32.237em 32.737em" dy="1.2em"
+						class="st8">entsprechenden Prozesse und Dokumente sind Bestandteil des </tspan><tspan x="0.333em 1.166em
+							 1.723em 2.279em 2.835em 3.391em 3.947em 4.78em 5.336em 5.892em 6.17em 6.67em 7.17em 7.67em 7.948em 8.504em
+							 9.337em 9.837em" dy="1.2em" class="st8">Managementsystems.<v:newlineChar/><v:newlineChar/></tspan><tspan
+						x="0.333em 0.889em 1.112em 1.668em 2.168em 2.446em 2.946em 3.502em 3.78em 4.336em 4.836em 5.114em 5.67em
+							 6.226em 6.448em 6.67em 7.226em 7.559em 7.837em 8.504em 8.782em 9.338em 9.838em 10.394em 10.951em 11.507em
+							 11.729em 12.285em 12.841em 13.174em 13.73em 14.287em 14.843em 15.065em 15.565em 16.065em 16.621em"
+						dy="2.4em" class="st8">Link zu aktueller Stakeholderanalyse:</tspan></text>		</g>
+		<g id="shape22-44" v:mID="22" v:groupContext="shape" transform="translate(453.543,-297.638)">
+			<title>Tabelle.22</title>
+			<desc>We have identified customers, owners/management, employees, o...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="198.425" cy="517.323" width="396.86" height="184.252"/>
+			<rect x="0" y="425.197" width="396.85" height="184.252" class="st1"/>
+			<text x="0.333em 1.277em 1.833em 2.148em 2.704em 3.26em 3.76em 4.316em 4.631em 4.853em 5.409em 5.966em 6.522em 6.8em
+						 7.022em 7.3em 7.522em 8.078em 8.634em 8.949em 9.449em 10.005em 10.505em 10.783em 11.339em 12.172em 12.728em
+						 13.061em 13.561em 13.839em 14.153em 14.71em 15.432em 15.988em 16.544em 16.877em 17.377em 17.655em 18.488em
+						 19.044em 19.6em 20.156em 20.712em 21.269em 22.102em 22.658em 23.214em 23.492em 23.77em 24.084em 24.64em
+						 25.473em 26.03em 26.252em 26.808em 27.308em 27.864em 28.42em 28.92em 29.198em 29.513em 30.069em 30.625em
+						 30.903em 31.403em 31.625em 32.181em 32.737em" y="440" class="st7" v:langID="1031"><v:paragraph
+						v:spAfter="12" v:horizAlign="3" v:bulletSize="0.166667"/><v:tabList/>We have identified customers, owners/management, employees, outside <tspan
+						x="0.333em 0.833em 1.166em 1.723em 2.279em 2.501em 2.779em 3.335em 3.668em 4.168em 4.446em 4.89em 5.39em
+							 5.946em 6.503em 7.059em 7.281em 7.503em 8.059em 8.392em 8.892em 9.17em 9.615em 10.115em 10.671em 11.504em
+							 12.06em 12.616em 12.894em 13.116em 13.394em 13.95em 14.283em 14.783em 15.061em 15.506em 16.062em 16.618em
+							 17.118em 17.674em 18.007em 18.84em 19.396em 19.952em 20.23em 20.675em 21.231em 21.787em 22.343em 22.788em
+							 23.288em 23.844em 24.344em 24.566em 25.122em 25.4em 25.9em 26.178em 26.623em 27.456em 28.012em 28.568em
+							 29.124em 29.68em 30.236em 31.069em 31.625em 32.182em 32.459em 32.737em" dy="1.2em" class="st8">creditors, suppliers, competitors, goverment and society, management, </tspan><tspan
+						x="0.333em 0.889em 1.39em 1.89em 2.446em 2.946em 3.168em 3.724em 4.002em 4.558em 5.114em 5.392em 5.892em
+							 6.448em 7.281em 7.837em 8.393em 8.95em 9.172em 9.728em 10.228em 10.506em 11.062em 11.618em 12.174em
+							 12.452em 12.952em 13.508em 14.064em 14.621em 15.177em 15.51em 16.066em 16.344em 16.566em 17.122em 17.678em
+							 17.956em 18.512em 19.068em 19.401em 19.679em 20.235em 20.792em 21.125em 21.625em 21.902em 22.459em 22.959em
+							 23.236em 23.459em 24.015em 24.293em 24.849em 25.182em 25.738em 26.238em 26.516em 27.072em 27.628em 27.906em
+							 28.462em 29.018em 29.351em 29.629em 29.851em 30.407em 30.907em 31.185em" dy="1.2em" class="st8">associated companies and cooperation partners as interested parties. <v:newlineChar/></tspan><tspan
+						x="0.333em 1.277em 1.499em 1.777em 2.333em 2.556em 3.112em 3.779em 4.056em 4.613em 5.169em 5.836em 6.114em
+							 6.447em 7.003em 7.836em 8.392em 9.114em 9.67em 10.003em 10.503em 11.17em 11.726em 12.004em 12.671em
+							 12.949em 13.505em 14.061em 14.728em 15.228em 15.784em 16.117em 16.674em 17.23em 17.563em 18.119em 18.397em
+							 18.953em 19.62em 20.12em 20.398em 20.731em 21.287em 21.565em 22.121em 22.677em 23.177em 23.455em 24.122em
+							 24.678em 25.178em 25.845em 26.567em 27.123em 27.345em 27.567em 28.234em 28.791em 29.291em 29.957em 30.514em
+							 31.07em 31.403em 31.625em 32.181em 32.737em" dy="2.2em" class="st8" v:langID="2057">Within the framework of the corporate strategy, as well as during </tspan><tspan
+						x="0.333em 0.889em 1.222em 1.779em 2.335em 2.891em 3.391em 3.669em 3.891em 4.391em 4.947em 5.673em 6.229em
+							 6.785em 7.341em 7.674em 8.23em 8.508em 8.73em 9.287em 9.843em 10.121em 10.846em 11.402em 11.958em 12.515em
+							 13.24em 13.796em 14.074em 14.8em 15.078em 15.634em 16.19em 16.915em 17.472em 17.805em 18.361em 18.917em
+							 19.473em 19.695em 20.195em 20.751em 21.029em 21.251em 21.808em 22.364em 22.555em 23.055em 23.78em 24.613em
+							 25.169em 25.392em 25.948em 26.673em 26.951em 27.507em 28.007em 28.507em 29.007em" dy="1.2em"
+						class="st8" v:langID="2057">productive operation, one of the organisation&#39;s main tasks </tspan><tspan
+						x="29.733em 29.955em 30.177em 30.733em 31.233em 31.959em 32.181em 32.737em" dy="0em" class="st8"
+						v:langID="2057">lies in </tspan><tspan x="0.333em 0.889em 1.446em 2.002em 2.558em 2.891em 3.391em 3.669em
+							 4.225em 4.781em 5.337em 5.559em 6.116em 6.672em 7.15em 7.428em 7.984em 8.54em 9.019em 9.575em 10.131em
+							 10.687em 11.243em 11.743em 12.222em 12.778em 13.334em 13.89em 14.368em 14.924em 15.424em 15.981em 16.537em
+							 17.037em 17.315em 17.871em 18.149em 18.371em 18.927em 19.483em 19.983em 20.461em 21.018em 21.295em 21.774em
+							 22.274em 22.552em 23.108em 23.608em 24.164em 24.72em 25.276em 25.498em 26.055em 26.611em 26.944em 27.444em
+							 27.922em 28.478em 29.034em 29.59em 30.069em 30.347em 30.903em 31.403em 31.625em 32.181em 32.737em"
+						dy="1.2em" class="st8" v:langID="2057">understanding the needs and expectations of stakeholders and taking </tspan><tspan
+						x="0.333em 0.889em 1.39em 1.89em 2.446em 3.002em 3.558em 3.836em 4.361em 4.917em 5.195em 5.72em 5.998em 6.554em
+							 7.11em 7.61em 8.166em 8.691em 8.913em 9.469em 9.994em 10.272em 10.828em 11.385em 11.91em 12.466em 12.799em
+							 13.355em 13.911em 14.467em 14.689em 15.189em 15.746em 16.023em 16.246em 16.802em 17.358em 17.549em 18.049em
+							 18.574em 19.13em 19.686em 20.186em 20.742em 20.964em 21.521em 22.077em 22.91em 23.466em 24.022em 24.3em
+							 24.578em 25.103em 25.714em 26.27em 26.795em 27.073em 27.629em 27.851em 28.351em 28.876em 29.432em 29.988em
+							 30.544em 30.822em 31.347em 31.625em 32.181em 32.737em" dy="1.2em" class="st8" v:langID="2057">account of these in the organisation&#39;s development. To this end, the </tspan><tspan
+						x="0.333em 0.833em 1.111em 1.667em 2.167em 2.724em 3.28em 3.836em 4.058em 4.614em 5.17em 5.503em 6.003em
+							 6.348em 6.905em 7.238em 7.794em 8.139em 8.695em 9.251em 9.807em 10.029em 10.529em 11.03em 11.586em 12.142em
+							 12.487em 13.043em 13.543em 14.099em 14.432em 14.932em 15.277em 15.777em 16.334em 16.89em 17.223em 17.568em
+							 18.124em 18.68em 19.236em 19.581em 19.859em 20.415em 20.972em 21.317em 21.817em 22.373em 22.706em 23.039em
+							 23.595em 24.095em 24.651em 25.207em 25.763em 26.32em 26.542em 27.098em 27.654em 27.999em 28.555em 29.111em
+							 29.668em 30.224em 30.724em 31.069em 31.625em 32.181em 32.737em" dy="1.2em" class="st8" v:langID="2057">stakeholders are analysed every year and the corresponding needs and </tspan><tspan
+						x="0.333em 0.889em 1.39em 1.946em 2.502em 3.002em 3.28em 3.836em 4.114em 4.336em 4.892em 5.448em 5.948em
+							 6.757em 7.314em 7.647em 8.203em 9.012em 9.568em 10.124em 10.624em 11.181em 12.014em 12.57em 13.126em
+							 13.404em 13.96em 14.516em 15.325em 15.547em 16.104em 16.913em 17.469em 18.025em 18.834em 19.391em 19.891em
+							 20.447em 20.78em 21.28em 21.502em 22.058em 22.78em 23.058em 23.867em 24.478em 25.034em 25.591em 26.4em
+							 26.9em 27.456em 27.789em 28.122em 28.678em 29.178em 29.734em 30.29em 30.847em 31.403em 31.625em 32.181em
+							 32.737em" dy="1.2em" class="st8" v:langID="2057">expectations are documented in an overview. The corresponding </tspan><tspan
+						x="0.333em 0.889em 1.222em 1.779em 2.279em 2.835em 3.335em 3.835em 4.391em 4.891em 5.169em 5.725em 6.281em
+							 6.837em 7.115em 7.671em 8.227em 8.727em 9.284em 10.117em 10.673em 11.229em 11.507em 12.007em 12.285em
+							 12.562em 13.119em 13.452em 14.285em 14.562em 15.119em 15.675em 16.008em 16.286em 16.563em 17.12em 17.397em
+							 17.675em 17.953em 18.509em 19.065em 19.343em 20.176em 20.732em 21.289em 21.845em 22.401em 22.957em 23.79em
+							 24.346em 24.902em 25.18em 25.458em 25.958em 26.458em 26.958em 27.236em 27.792em 28.625em" dy="1.2em"
+						class="st8" v:langID="2057">processes and documents form part of the management system.<v:newlineChar/><v:paragraph
+							v:horizAlign="3"/></tspan><tspan x="0.333em 0.889em 1.112em 1.668em 2.168em 2.446em 2.724em 3.28em 3.558em
+							 3.78em 4.336em 4.614em 5.17em 5.67em 5.948em 6.226em 6.726em 7.003em 7.56em 8.06em 8.616em 9.172em 9.728em
+							 9.95em 10.506em 11.062em 11.395em 11.673em 12.229em 12.786em 13.342em 13.564em 14.064em 14.564em 14.786em
+							 15.286em" dy="2.2em" class="st8">Link to latest stakeholder analysis:</tspan></text>		</g>
+		<g id="group24-58" transform="translate(382.677,-262.205)" v:mID="24" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({00000000-0000-0000-0000-000000000000})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(46):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Stakeholder analysis)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({CB8CF3A2-35A5-411C-958E-44C1F1F88F91})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(Stakeholder analysis)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(88):26"/>
+			</v:userDefs>
+			<title>Daten</title>
+			<g id="shape25-59" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(-7.08662,5.31511)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="597.047" width="141.74" height="24.8035"/>
+				<rect x="0" y="584.645" width="141.732" height="24.8035" class="st10"/>
+				<rect v:rectContext="textBkgnd" x="6.27429" y="588.647" width="129.184" height="16.8" class="st11"/>
+				<text x="6.27" y="601.25" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/><tspan
+							class="st13">Stakeholder analysis</tspan></text>			</g>
+			<g id="shape24-64" v:mID="24" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="63.7795" cy="602.362" width="141.74" height="24.8035"/>
+				<path d="M0 602.36 L117.84 602.36" class="st14"/>
+				<rect v:rectContext="textBkgnd" x="-0.812324" y="593.963" width="129.184" height="16.8" class="st11"/>
+				<text x="-0.81" y="606.56" class="st12" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/><tspan
+							class="st13">Stakeholder analysis</tspan></text>			</g>
+		</g>
+	</g>
+</svg>

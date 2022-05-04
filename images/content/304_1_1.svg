@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export 304_1_1.svg 6. Planung -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="11.6929in" height="8.26772in"
+		viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvConvertTheme"/>
+			<v:ud v:nameU="VIFLOW_Version" v:prompt="" v:val="VT4(6.00.0000)"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st2 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st3 {fill:#000000;font-family:Arial;font-size:1.5em;font-weight:bold}
+		.st4 {fill:#ffffff;font-family:Arial;font-size:1.5em;font-weight:bold}
+		.st5 {fill:#545454;stroke:#9e9fa2;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st6 {fill:#ffffff;font-family:Arial;font-size:0.666664em}
+		.st7 {fill:#000000;font-family:Arial;font-size:1.00001em}
+		.st8 {font-size:1em}
+		.st9 {font-family:Symbol;font-size:1em}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4(6. Planung)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(6. Planung)"/>
+			<v:ud v:nameU="VIFLOW__Firmenname" v:val="VT4(iwis motorsysteme)"/>
+			<v:ud v:nameU="VIFLOW__Bereiche_Stammdaten__ModellerAreaID__Stammdaten__Bezeichnung_A" v:val="VT4(doerbjo)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__CreationDate" v:val="VT4(23.08.2017)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__ModifiedDate" v:val="VT4(11.05.2018)"/>
+			<v:ud v:nameU="VIFLOW__DatabaseName" v:val="VT4(PRIMAS_4)"/>
+			<v:ud v:nameU="VIFLOW__Bereiche_Stammdaten__PrueferBereichID__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4()"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__VerificationDate" v:prompt="" v:val="VT4()"/>
+			<v:ud v:nameU="VIFLOW__Bereiche_Stammdaten__FreigeberBereichID__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4()"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__ReleaseDate" v:prompt="" v:val="VT4()"/>
+		</v:userDefs>
+		<title>6. Planung</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="2.83465"
+				v:shadowOffsetY="-2.83465"/>
+		<v:layer v:name="Daten" v:index="0"/>
+		<v:layer v:name="Bereich" v:index="1" v:snap="false" v:glue="false"/>
+		<v:layer v:name="Wasserzeichen" v:index="2" v:snap="false" v:glue="false"/>
+		<v:layer v:name="MitGDoks" v:index="3" color="#ff0000"/>
+		<v:layer v:name="Prozess" v:index="4"/>
+		<v:layer v:name="Verzweigung" v:index="5"/>
+		<v:layer v:name="Beschriftung" v:index="6"/>
+		<g id="shape6-1" v:mID="6" v:groupContext="shape" transform="translate(28.3181,-504.992)">
+			<title>Tabelle.6</title>
+			<rect v:rectContext="foreign" x="0" y="590.031" width="717.194" height="5.24409" class="st1"/>
+			<switch>
+				<foreignObject x="0" y="590.031" width="717.194" height="5.24409"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="11776" v:data="data:metafile;base64,eNrtmEluE0EYhV
+								91Ozi2A3aMCcFMZp4hAySEKdgIJJBiIm4AkiVAjElA4gZwDI4AOxZGXmSJBEeABTfIJgvcvKr+G4UQoO0oDhb/a31yu13V5a
+								p69arVnz72f379pvgFy3QJPppBChuWXDOCUw7w5HszCILocqDqKn0jG2UON/Gzh9g5T5JekiJpkiF9Us6SDS2AfpInm0mBbJ
+								Eyqu7QLTzmMYcSruIRP2fwAq1ogI6J7uU5r/jueiP8+dpKdWyJRi7KlJt4gBraVRqeWdqfuPUKPzLtCvv/EE/4P+7gfsvt59
+								m+kT7Fbd+Wn5JzT/o/zZGvYRZD7oivQel/ooX2bdkbMv5Nmbem3ONv699mhc2JP63/AbLV/TdgGymS7WQH2Ul2kd2kRPaQvW
+								Qf2U8OkIPkEDlMjpCj5Bg5Tk6Qk+QUseM0TEbIKDlNzpAxMk7OkglyjpwnF8hFt7cBk+QyKZPKf5xZJtzG25bhyPnp0HvL17
+								710HRl5tnsXax8ujDx9ilWpwaNWJl6nw2/jYlr6uJg4zwIvMz+WlOzP5IvmWBkVCJDvOKifmdzIGd/YxL4CRsJ+JqMUsQ3vS
+								4x+rzFoO7OMq6yPUuahJQtZ0r4wPmou7vaktB5Uq2t1Dcq9Y2qY75RqdqRLh1VO3mjQ6BS36g65Rv/N/tXtVy9rrt4typ6/z
+								6MIVRxG3O4h+ctvI8vwvspUeLUsU6az67NE9R6P8F1W/sabLp/qtQ3qn/VNyrVap8KVKq4eaNDoFLfqDrlG9V66jveYoRM"/>
+				</foreignObject>
+				<svg viewBox="0 0 592.42 4.3344" enable-background="new" color-interpolation-filters="sRGB" height="5.24409"
+						preserveAspectRatio="none" width="717.194" x="0" y="590.031">
+					<defs>
+						<clipPath id="mfid170">
+							<rect id="mfid171" x="0" y="0" width="592.42" height="4.3344"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid170)">
+						<mask id="mfid169" fill-rule="evenodd">
+							<g>
+								<rect width="592" height="4" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid169)">
+							<g transform="matrix(3.1323, 0, 0, -0.57143, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<image width="189" height="7" transform="scale(1,-1)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAAHCAIAAADS5Nt0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAqSURBVFhH7dIxAQAwDAKw+jfNnhmAO9GQC/S8YeENi4PF/wMNb1h4Qy95ix89elJChc4AAAAASUVORK5CYII="/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid172" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="592" height="4"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="590.031" width="717.194" height="5.24409" class="st1"/>
+		</g>
+		<g id="shape14-4" v:mID="14" v:groupContext="shape" transform="translate(705.354,-462.611)">
+			<title>Tabelle.14</title>
+			<rect v:rectContext="foreign" x="0" y="500.026" width="120" height="95.25" class="st1"/>
+			<image x="0" y="500.026" width="120" height="95.25" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVB
+						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"/>
+			<rect v:rectContext="foreign" x="0" y="500.026" width="120" height="95.25" class="st1"/>
+		</g>
+		<g id="group15-8" transform="translate(22.6772,-510.236)" v:mID="15" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({00000000-0000-0000-0000-000000000000})"/>
+			</v:userDefs>
+			<title>Titelzeile einfach</title>
+			<g id="shape16-9" v:mID="16" v:groupContext="shape">
+				<title>Tabelle.16</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="328.819" cy="583.937" width="657.64" height="22.6772"/>
+				<rect x="0" y="572.598" width="657.638" height="22.6772" class="st2"/>
+				<text x="4" y="589.34" class="st3" v:langID="1031"><v:paragraph/><v:tabList/>6. Planung</text>			</g>
+			<g id="shape17-12" v:mID="17" v:groupContext="shape" transform="translate(340.157,0)">
+				<title>Tabelle.17</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="158.74" cy="583.937" width="317.49" height="22.6772"/>
+				<text x="151.42" y="589.34" class="st4" v:langID="1031"><v:paragraph v:horizAlign="2"/><v:tabList/>iwis motorsysteme</text>			</g>
+		</g>
+		<g id="group1-14" transform="translate(22.6772,-28.3465)" v:mID="1" v:groupContext="group">
+			<title>Fußzeile einfach</title>
+			<g id="shape2-15" v:mID="2" v:groupContext="shape">
+				<title>Tabelle.2</title>
+				<desc>Ersteller:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="100.645" cy="589.606" width="201.3" height="11.3386"/>
+				<rect x="0" y="583.937" width="201.291" height="11.3386" class="st5"/>
+				<text x="4" y="592.01" class="st6" v:langID="1031"><v:paragraph/><v:tabList/>Ersteller: doerbjo</text>			</g>
+			<g id="shape3-18" v:mID="3" v:groupContext="shape" transform="translate(201.229,0)">
+				<title>Tabelle.3</title>
+				<desc>Erstelldatum:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="100.645" cy="589.606" width="201.3" height="11.3386"/>
+				<rect x="0" y="583.937" width="201.291" height="11.3386" class="st5"/>
+				<text x="4" y="592.01" class="st6" v:langID="1031"><v:paragraph/><v:tabList/>Erstelldatum: 23.08.2017</text>			</g>
+			<g id="shape4-21" v:mID="4" v:groupContext="shape" transform="translate(402.52,0)">
+				<title>Tabelle.4</title>
+				<desc>letzte Änderung:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="93.5433" cy="589.606" width="187.09" height="11.3386"/>
+				<rect x="0" y="583.937" width="187.087" height="11.3386" class="st5"/>
+				<text x="4" y="592.01" class="st6" v:langID="1031"><v:paragraph/><v:tabList/>letzte Änderung: 11.05.2018</text>			</g>
+			<g id="shape5-24" v:mID="5" v:groupContext="shape" transform="translate(589.494,0)">
+				<title>Tabelle.5</title>
+				<desc>Datenbank:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="103.521" cy="589.606" width="207.05" height="11.3386"/>
+				<rect x="0" y="583.937" width="207.042" height="11.3386" class="st5"/>
+				<text x="4" y="592.01" class="st6" v:langID="1031"><v:paragraph/><v:tabList/>Datenbank: PRIMAS_4</text>			</g>
+		</g>
+		<g id="shape7-27" v:mID="7" v:groupContext="shape" transform="translate(9.99201E-16,-253.602)">
+			<title>Tabelle.7</title>
+			<rect v:rectContext="foreign" x="0" y="381.161" width="14.1732" height="214.115" class="st1"/>
+			<switch>
+				<foreignObject x="0" y="381.161" width="14.1732" height="214.115"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="58880" v:data="data:metafile;base64,eNrt3clOFFEYhu
+								G/ukBGBxCxxQnnWQEFxRkQFJUGcZ5FRYEGGTUxJCy8Ezfu9QpYuDTRrXGjd+DChRu7/ar6NBLEhEaIwbwnvEnRw1Mc6tDF7n
+								x4X/T55euyLzZlHDffEsk8WzTpMc8VjmVmEfd9IplMph9OMhbU+KGOuGsYlK3j4JrnqFyVp/JVgSpUi9UStTS1BKxIFavlqk
+								StUKVqpYqqVapMrVZr1Fq1Tq1X5WqD2qg2qc1qi9qqtqntaofaqXap3WqP2qv2qQpVqarUfnVAVasadVAdUrXq8KT5HQvXtt
+								kJdVLVqXrVoE6pRtWkTqszqlmdVefUedWiYqpVtakLql1dVJfUZXVFXVXX1HV1Q91Ut9RtdUfdVfdUh7qvHqiHqlM9Uo9Vl+
+								pWPSquelWfeqL61YAadHOb7WiX1G8juhaNckdsyJ5bJqPUsif+5iPhWvHDx8dTTzdN9x7/1/P6/GjVvDpttiPfIt7k+cz0fS
+								UT52/Q/Pv0u2zVdejJ+PzFOr/n5jTT83tuHQUj4ubfpt98pw1rTVeE63qmI+rmn5XB+YPXVvWmjhPuuiUW1KcWY66Gl7qNz3
+								p4Wjl+fmrtTf3bD+4hbfVDT4e7bPrDb7VvBo3xL0dw3Xz3meC579MLYlQHo7oRf40Hz+k/Af97cHu1j9XpTxHfy7XgP4bCyI
+								tENDwqCN8cHOV4We61dQXl9s7GvGioBq80d3cPjsa8QE89NhD//SestE9//6VZ4eDg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4O
+								Dg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4O
+								Dg4ODg4ODg4MyH4/9hp7BYXayZ/dL+t5Hef7PSKixmHTZi3fYsg/04yyxime6/eVS9jc/tHnaZ7v8513voLdTzj+s61Le8cl
+								ejhn35cHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+								BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBw/hNnfvYO+wliwHZB"/>
+				</foreignObject>
+				<svg viewBox="0 0 39.232 591.8" enable-background="new" color-interpolation-filters="sRGB" height="214.115"
+						preserveAspectRatio="none" width="14.1732" x="0" y="381.161">
+					<defs>
+						<clipPath id="mfid174">
+							<rect id="mfid175" x="0" y="0" width="39.232" height="591.8"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid174)">
+						<mask id="mfid173" fill-rule="evenodd">
+							<g>
+								<rect width="39" height="592" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid173)">
+							<g transform="matrix(1.625, 0, 0, -1.5497, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<image width="24" height="382" transform="scale(1,-1)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAF+CAIAAAAXz01cAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACzSURBVHhe7cwxDcAwAASxUCp/KAXzheChGU/y7POe579tRVBkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRXYv2j4xWWW3uRfAfQAAAABJRU5ErkJggg=="/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid176" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="39" height="592"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="381.161" width="14.1732" height="214.115" class="st1"/>
+		</g>
+		<g id="shape19-30" v:mID="19" v:groupContext="shape" transform="translate(28.3465,-42.5197)">
+			<title>Tabelle.19</title>
+			<desc>Die Leitung des Unternehmens stellt sicher, dass die Planung ...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="198.425" cy="389.764" width="396.86" height="411.024"/>
+			<rect x="0" y="184.252" width="396.85" height="411.024" class="st1"/>
+			<text x="0.333em 1.056em 1.278em 1.834em 2.469em 3.026em 3.582em 3.804em 4.082em 4.638em 5.194em 5.75em 6.386em 6.942em
+						 7.498em 7.998em 8.634em 9.356em 9.912em 10.19em 10.746em 11.079em 11.635em 12.191em 12.748em 13.581em 14.137em
+						 14.693em 15.193em 15.829em 16.329em 16.606em 17.163em 17.385em 17.607em 17.885em 18.52em 19.02em 19.243em
+						 19.743em 20.299em 20.855em 21.188em 21.466em 22.101em 22.657em 23.214em 23.714em 24.214em 24.849em 25.405em
+						 25.628em 26.184em 26.819em 27.486em 27.709em 28.265em 28.821em 29.377em 29.933em 30.489em 31.125em 31.681em
+						 32.237em 32.737em" y="199.05" class="st7" v:langID="1031"><v:paragraph v:horizAlign="3"/><v:tabList/>Die Leitung des Unternehmens stellt sicher, dass die Planung des <tspan
+						x="0.333em 1.166em 1.723em 2.279em 2.835em 3.391em 3.947em 4.78em 5.336em 5.892em 6.17em 6.67em 7.17em 7.67em
+							 7.948em 8.504em 9.337em 9.837em 10.115em 10.337em 10.894em 11.171em 11.727em 12.284em 12.617em 12.894em
+							 13.838em 14.394em 14.617em 15.117em 15.673em 15.951em 16.507em 16.84em 17.118em 17.674em 17.896em 18.452em
+							 18.73em 19.008em 19.286em 19.842em 20.398em 20.898em 21.398em" dy="1.2em" class="st8">Managementsystems in der Weise erfolgt, dass:<v:newlineChar/><v:newlineChar/><v:paragraph
+							v:indentFirst="-18" v:indentLeft="18" v:horizAlign="3" v:bullet="1"/></tspan><tspan x="0.333em"
+						dy="2.412em" class="st9" v:isBullet="true">·</tspan><tspan x="0.793em" dy="0em" class="st9"> </tspan><tspan
+						x="1.833em 2.555em 2.778em 3.334em 4.096em 4.318em 4.875em 5.637em 6.248em 6.581em 7.137em 7.693em 8.249em
+							 9.012em 9.512em 10.068em 10.901em 11.734em 12.29em 12.846em 13.402em 13.959em 14.515em 15.277em 16.055em
+							 16.611em 17.111em 17.667em 17.945em 18.445em 19.001em 19.279em 20.042em 20.764em 21.32em 21.876em 22.432em
+							 22.654em 23.376em 23.933em 24.266em 24.766em 25.322em 25.6em 26.362em 27.084em 27.64em 27.973em 28.806em
+							 29.363em 29.919em 30.681em 31.237em 31.737em 32.459em 32.737em" dy="0em" class="st8">Die in Frage kommenden Gesetze, Regelwerke, Normen usw. </tspan><tspan
+						x="1.833em 2.389em 2.722em 3.222em 3.779em 4.335em 4.891em 5.169em 5.447em 6.003em 6.559em 7.115em 7.393em
+							 7.949em 8.171em 8.727em 9.284em 9.84em 10.396em 10.952em 11.174em 11.452em 12.008em 12.564em 12.842em
+							 13.564em 14.121em 14.454em 15.01em 15.566em 16.122em" dy="1.204em" class="st8">erkannt und eingehalten werden.<v:newlineChar/></tspan><tspan
+						x="0.333em" dy="1.212em" class="st9" v:isBullet="true">·</tspan><tspan x="0.793em" dy="0em" class="st9"> </tspan><tspan
+						x="1.833em 2.555em 2.778em 3.334em 3.968em 4.635em 5.191em 5.469em 6.025em 6.358em 6.915em 7.471em 7.804em
+							 8.36em 8.916em 9.472em 10.028em 10.584em 11.219em 11.719em 12.275em 12.831em 13.466em 14.133em 14.689em
+							 15.245em 15.801em 16.357em 16.913em 17.191em 17.826em 18.048em 18.604em 18.882em 19.438em 19.771em 20.327em
+							 20.827em 21.327em 21.549em 22.105em 22.438em 22.716em 23.272em 23.829em 24.463em 25.13em 25.686em 26.019em
+							 26.297em 26.853em 27.075em 27.632em 28.188em 28.822em 29.378em 29.934em 30.491em 31.125em 31.681em 32.237em
+							 32.737em" dy="0em" class="st8">Die Anforderungen von Kunden, interessierten Parteien und aus </tspan><tspan
+						x="1.833em 2.555em 3.112em 3.445em 4.278em 4.834em 5.39em 5.93em 6.263em 6.819em 7.375em 7.597em 7.819em
+							 8.319em 8.542em 9.098em 9.431em 9.709em 10.248em 10.97em 11.527em 11.86em 12.416em 12.972em 13.528em
+							 14.068em 14.568em 15.124em 15.68em 16.236em 16.793em 17.349em 17.627em 18.166em 18.888em 19.445em 19.945em
+							 20.501em 21.041em 21.874em 22.43em 22.93em 23.43em 23.986em 24.542em 25.082em 25.638em 25.86em 26.416em
+							 26.956em 27.678em 28.234em 28.734em 29.29em 29.847em 30.124em 30.347em 30.569em 31.069em 31.625em 32.181em
+							 32.737em" dy="1.204em" class="st8">Normen realisiert werden können. Dazu müssen die wesentlichen </tspan><tspan
+						x="1.833em 2.389em 2.722em 3em 3.556em 3.889em 4.446em 5.002em 5.335em 5.557em 5.779em 6.279em 6.835em 7.391em
+							 7.948em 9.309em 9.976em 10.309em 10.865em 11.365em 11.921em 12.421em 12.921em 13.477em 14.838em 15.394em
+							 15.951em 16.451em 17.007em 17.563em 17.785em 18.007em 18.507em 19.063em 20.424em 21.035em 21.257em 21.814em
+							 22.036em 22.536em 23.092em 23.37em 23.87em 24.426em 24.982em 25.538em 25.816em 27.177em 27.844em 28.4em
+							 29.123em 29.679em 30.235em 30.791em 31.347em 31.903em 32.459em 32.737em" dy="1.2em" class="st8">erforderlichen Prozesse bezüglich Zielsetzung, Anwendung, </tspan><tspan
+						x="1.833em 2.777em 3.333em 3.833em 4.39em 4.89em 5.446em 5.668em 6.39em 6.612em 6.945em 7.445em 8.001em 8.558em
+							 9.114em 9.391em 10.047em 10.603em 11.159em 11.716em 12.216em 12.772em 13.328em 13.884em 14.162em 14.818em
+							 15.651em 16.207em 16.707em 17.207em 17.763em 18.319em 18.875em 19.531em 20.087em 20.643em 21.199em 21.855em
+							 22.577em 23.133em 23.69em 24.022em 24.745em 25.301em 25.801em 26.357em 26.913em 27.469em 28.025em 28.681em
+							 29.237em 29.793em 30.293em 30.571em 30.793em 31.626em 32.459em 32.737em" dy="1.2em" class="st8">Wechselwirkung, Lenkung, Messung und Überwachung bestimmt </tspan><tspan
+						x="1.833em 2.333em 2.889em 3.112em 3.668em" dy="1.2em" class="st8">sein.<v:newlineChar/></tspan><tspan x="
+							0.333em" dy="1.212em" class="st9" v:isBullet="true">·</tspan><tspan x="0.793em" dy="0em" class="st9"> </tspan><tspan
+						x="1.833em 2.555em 2.778em 3.334em 4.23em 4.841em 5.063em 5.619em 5.841em 6.398em 7.294em 7.85em 8.183em
+							 8.516em 9.072em 9.294em 9.794em 10.35em 10.628em 11.525em 12.247em 12.803em 13.136em 13.692em 14.248em
+							 14.804em 15.701em 16.034em 16.534em 17.09em 17.646em 18.202em 18.758em 19.314em 19.647em 19.925em 20.821em
+							 21.544em 21.766em 22.322em 22.655em 23.155em 23.711em 24.607em 25.33em 25.886em 26.219em 26.775em 27.331em
+							 27.887em 28.783em 29.283em 29.84em 30.396em 31.292em 31.848em 32.404em 32.737em" dy="0em" class="st8">Die Ziele erreicht werden (können). Hierzu werden von der </tspan><tspan
+						x="1.833em 2.611em 3.167em 3.667em 4.167em 4.723em 5.28em 5.557em 5.835em 6.335em 6.558em 7.114em 7.336em
+							 7.614em 8.17em 8.726em 9.282em 10.81em 11.367em 11.589em 12.145em 13.673em 14.229em 14.562em 14.84em
+							 15.396em 15.729em 16.285em 16.841em 17.174em 17.397em 17.619em 18.119em 18.675em 19.231em 19.787em 21.315em
+							 22.038em 22.594em 23.094em 23.594em 24.15em 24.706em 25.039em 25.539em 26.095em 26.651em 28.18em 28.513em
+							 29.18em 29.736em 30.069em 30.569em 31.125em 31.681em 32.237em 32.459em 32.737em" dy="1.204em"
+						class="st8">Geschäftsleitung die erforderlichen Ressourcen (Personal, </tspan><tspan x="1.833em 2.111em 2.667em
+							 2.945em 3.278em 3.834em 4.334em 4.612em 4.945em 5.501em 6.001em 6.279em 6.835em 7.168em 7.501em 7.779em
+							 8.279em 8.835em 9.168em 9.446em 10.113em 10.669em 11.002em 11.28em 11.836em 12.392em 12.949em 13.505em
+							 14.061em 14.339em 14.895em 15.451em 15.951em 16.229em 16.785em 17.007em 17.229em 17.507em 17.785em"
+						dy="1.2em" class="st8">Infrastruktur) zur Verfügung gestellt. <v:newlineChar/><v:paragraph v:horizAlign="3"/><v:newlineChar/></tspan><tspan
+						x="0.333em 1.056em 1.278em 1.834em 2.167em 2.667em 3.223em 4.038em 4.76em 5.316em 5.649em 6.205em 6.761em
+							 7.317em 8.132em 8.688em 9.244em 9.8em 10.022em 10.579em 11.135em 11.691em 11.969em 12.525em 13.339em
+							 13.562em 14.118em 14.932em 15.489em 16.045em 16.601em 17.415em 18.138em 18.694em 18.972em 19.528em 19.861em
+							 20.417em 20.973em 21.529em 22.362em 22.918em 23.474em 23.974em 24.531em 24.864em 25.42em 25.92em 26.476em
+							 26.976em 27.476em 28.29em 28.513em 29.069em 29.347em 29.903em 30.459em 30.792em 31.014em 31.57em 31.903em
+							 32.181em 32.737em" dy="2.4em" class="st8">Hierzu werden geeignete in den Unternehmensprozess integrierte </tspan><tspan
+						x="0.333em 1em 1.223em 1.779em 2.335em 2.891em 3.447em 4.003em 4.503em 4.725em 5.282em 5.782em 6.059em 6.392em
+							 6.949em 7.782em 8.338em 8.894em 9.172em 9.728em 10.31em 10.643em 11.2em 11.756em 12.312em 12.812em 13.368em
+							 13.924em 14.48em 14.98em 15.537em 16.093em 16.593em 17.093em 17.593em 18.149em 18.705em 19.205em 19.705em
+							 20.261em 20.844em 21.4em 21.956em 22.512em 23.095em 23.762em 24.318em 25.151em 25.373em 25.651em 26.207em
+							 26.763em 27.263em 27.596em 28.179em 28.735em 28.957em 29.513em 30.069em 30.625em 31.125em 31.682em 31.959em
+							 32.459em 32.737em" dy="1.2em" class="st8">Planungsinstrumente (Lenkungsausschüsse und Komitees) eingesetzt </tspan><tspan
+						x="0.333em 0.889em 1.112em 1.668em 1.946em 2.446em 2.668em 3.168em 3.724em 4.002em 4.558em 4.836em 5.392em
+							 5.67em 5.948em 6.781em 7.003em 7.281em 7.559em 7.836em 8.393em 8.615em 9.171em 9.727em 10.283em 10.839em
+							 11.395em 11.952em 12.229em 12.84em 13.396em 13.953em 14.786em 15.342em 15.898em 16.176em 16.732em 17.288em
+							 17.788em 18.288em 18.844em 19.4em 19.678em 19.956em 20.178em 20.734em 21.291em 21.847em" dy="1.2em"
+						class="st8">die sich u.a. mit folgenden Themen beschäftigen:<v:newlineChar/><v:newlineChar/><v:paragraph
+							v:indentFirst="-18" v:indentLeft="18" v:horizAlign="3" v:bullet="1"/></tspan><tspan x="0.333em"
+						dy="2.412em" class="st9" v:isBullet="true">·</tspan><tspan x="0.793em" dy="0em" class="st9"> </tspan><tspan
+						x="1.833em 2.611em 3.167em 3.723em 3.946em 4.168em 4.446em 5.002em" dy="0em" class="st8">Qualität<v:newlineChar/></tspan><tspan
+						x="0.333em" dy="1.216em" class="st9" v:isBullet="true">·</tspan><tspan x="0.793em" dy="0em" class="st9"> </tspan><tspan
+						x="1.833em 2.5em 2.833em 3.389em 3.946em 4.168em 4.446em" dy="0em" class="st8">Arbeits</tspan><tspan x="
+							4.946em" dy="0em" class="st8">-</tspan><tspan x="5.279em" dy="0em" class="st8"> </tspan><tspan x="5.556em
+							 6.113em 6.669em 7.225em 7.503em 8.281em 8.837em 9.337em 9.893em 10.449em 11.005em 11.561em 12.118em
+							 12.34em 12.618em 13.118em 13.618em 14.118em 14.674em 15.23em 15.508em" dy="0em" class="st8">und Gesundheitsschutz<v:newlineChar/></tspan><tspan
+						x="0.333em" dy="1.216em" class="st9" v:isBullet="true">·</tspan><tspan x="0.793em" dy="0em" class="st9"> </tspan><tspan
+						x="1.833em 2.666em 3.222em 3.779em 4.335em 4.891em 5.447em 6.28em 6.836em 7.392em 7.67em 8.17em 8.67em 9.17em
+							 9.448em 10.004em" dy="0em" class="st8">Managementsystem</tspan></text>		</g>
+		<g id="shape21-65" v:mID="21" v:groupContext="shape" transform="translate(425.197,-42.5197)">
+			<title>Tabelle.21</title>
+			<desc>The company&#39;s management ensures that the management system i...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="198.425" cy="389.764" width="396.86" height="411.024"/>
+			<rect x="0" y="184.252" width="396.85" height="411.024" class="st1"/>
+			<text x="0.333em 0.944em 1.5em 2.056em 2.526em 3.026em 3.582em 4.415em 4.971em 5.527em 6.083em 6.583em 6.774em 7.274em
+						 7.743em 8.576em 9.133em 9.689em 10.245em 10.801em 11.357em 12.19em 12.746em 13.303em 13.58em 14.05em 14.606em
+						 15.162em 15.662em 16.218em 16.551em 17.107em 17.607em 18.076em 18.354em 18.91em 19.467em 19.744em 20.213em
+						 20.491em 21.047em 21.604em 22.073em 22.906em 23.462em 24.018em 24.574em 25.13em 25.687em 26.52em 27.076em
+						 27.632em 27.91em 28.379em 28.879em 29.379em 29.879em 30.157em 30.713em 31.546em 32.015em 32.237em 32.737em"
+					y="199.05" class="st7" v:langID="2057"><v:paragraph v:horizAlign="3" v:bulletSize="0.166667"/><v:tabList/>The company&#39;s management ensures that the management system is <tspan
+						x="0.333em 0.889em 1.112em 1.668em 2.224em 2.78em 3.336em 3.892em 4.17em 4.392em 4.949em 5.226em 5.726em
+							 6.283em 6.783em 7.339em 7.617em 8.173em 8.451em 9.173em 9.729em 10.229em 10.507em 10.785em 11.341em
+							 11.897em 12.175em" dy="1.2em" class="st8">planned in such a way that <v:newlineChar/><v:newlineChar/></tspan><tspan
+						x="0.333em" dy="2.412em" class="st9"><v:tabChar/></tspan><tspan x="3.877em 4.433em 4.989em 5.545em 5.767em
+							 5.989em 6.489em 7.046em 7.602em 7.824em 8.38em 8.921em 9.144em 9.7em 10.422em 10.922em 11.2em 11.741em
+							 12.074em 12.63em 13.186em 13.742em 13.965em 14.521em 14.799em 15.021em 15.577em 16.133em 16.633em 16.911em
+							 17.452em 17.952em 18.23em 18.786em 19.342em 19.898em 20.455em 20.788em 21.344em 21.844em 22.385em 22.941em
+							 23.219em 23.719em 23.997em 24.538em 25.094em 25.427em 25.983em 26.525em 26.747em 27.303em 27.859em 28.415em
+							 28.693em 28.915em 29.193em 29.415em 29.971em 30.528em 31.069em 31.625em 32.181em 32.737em" dy="0em"
+						class="st8">applicable laws, regulations, standards etc. are identified and <v:tabChar/></tspan><tspan x="
+							3.877em 4.21em 4.766em 5.266em 5.822em 6.378em 6.878em 7.156em 7.712em 8.268em" dy="1.204em"
+						class="st8">respected.<v:newlineChar/></tspan><tspan x="0.333em" dy="1.212em" class="st9"><v:tabChar/></tspan><tspan
+						x="3.877em 4.154em 4.711em 5.267em 5.943em 6.276em 6.832em 7.389em 7.945em 8.167em 8.5em 9.056em 9.889em
+							 10.445em 11.001em 11.279em 11.779em 12.456em 13.012em 13.29em 13.966em 14.466em 15.022em 15.522em 15.8em
+							 16.356em 17.189em 17.745em 18.078em 18.578em 19.255em 19.811em 20.367em 20.923em 21.6em 22.1em 22.378em
+							 22.934em 23.434em 23.99em 24.546em 25.102em 25.324em 25.881em 26.437em 26.77em 27.27em 27.946em 28.502em
+							 29.058em 29.615em 30.291em 30.569em 31.125em 31.681em 32.181em 32.737em" dy="0em" class="st8">the requirements of customers and stakeholders and those <v:tabChar/></tspan><tspan
+						x="3.877em 4.21em 4.766em 5.266em 5.822em 6.044em 6.322em 6.544em 7.1em 7.656em 7.934em 8.212em 8.545em 9.101em
+							 9.934em 10.212em 10.712em 10.99em 11.546em 12.102em 12.658em 13.215em 13.548em 14.104em 14.604em 14.882em
+							 15.382em 15.938em 16.494em 16.772em 17.328em 17.884em 18.162em 18.384em 19.217em 19.773em 19.995em 20.552em
+							 21.385em 21.941em 22.497em 22.775em 23.331em" dy="1.204em" class="st8">resulting from standards can be implemented </tspan><tspan
+						x="0.333em 0.611em" dy="1.2em" class="st8">  </tspan><tspan x="3.877em 4.487em 5.044em 5.584em 5.862em 6.418em
+							 6.64em 7.14em 7.681em 8.237em 8.793em 9.349em 9.627em 10.168em 10.39em 10.668em 11.208em 11.43em 11.93em
+							 12.471em 13.027em 13.583em 14.083em 14.639em 15.139em 15.639em 16.195em 16.528em 17.028em 17.569em 17.847em
+							 18.403em 18.943em 19.5em 20.056em 20.334em 20.89em 21.223em 22.056em 22.278em 22.834em 23.39em 23.931em
+							 24.209em 24.765em 25.321em 25.861em 26.694em 27.25em 27.75em 28.028em 28.569em 28.791em 29.624em 30.18em
+							 30.736em 31.069em 31.347em 31.903em 32.459em 32.737em" dy="0em" class="st8">To this end, it is necessary to determine the most important <v:tabChar/></tspan><tspan
+						x="3.877em 4.433em 4.766em 5.322em 5.822em 6.378em 6.878em 7.378em 7.934em 8.434em 8.928em 9.261em 9.817em
+							 10.373em 10.929em 11.152em 11.485em 12.041em 12.597em 13.091em 13.369em 13.925em 14.258em 14.751em 15.029em
+							 15.585em 16.142em 16.635em 17.191em 17.748em 18.025em 18.248em 18.804em 19.026em 19.304em 19.526em 20.082em
+							 20.638em 21.132em 21.688em 21.966em 22.46em 23.016em 23.572em 23.794em 24.35em 24.85em 25.128em 25.35em
+							 25.85em 26.407em 26.907em 27.184em 27.678em 28.234em 28.79em 29.347em 29.569em 29.791em 30.291em 30.847em
+							 31.125em 31.347em 31.903em 32.459em 32.737em" dy="1.2em" class="st8">processes required for the definition of objectives, application, <v:tabChar/></tspan><tspan
+						x="3.877em 4.099em 4.655em 4.933em 5.489em 5.822em 6.378em 6.878em 7.156em 7.378em 7.934em 8.49em 8.99em
+							 9.268em 9.546em 10.046em 10.602em 11.158em 11.436em 11.769em 12.325em 12.548em 12.825em 13.103em 13.936em
+							 14.492em 15.049em 15.549em 16.105em 16.438em 16.994em 17.827em 18.383em 18.939em 19.217em 19.495em 19.773em
+							 20.606em 21.162em 21.718em 21.94em 22.218em 22.774em 23.107em 23.329em 23.886em 24.442em" dy="1.2em"
+						class="st8">interactions, control, measurement, monitoring.<v:newlineChar/></tspan><tspan x="0.333em"
+						dy="1.212em" class="st9"><v:tabChar/></tspan><tspan x="3.877em 4.154em 4.711em 5.267em 6.145em 6.423em 6.979em
+							 7.312em 7.868em 8.424em 8.702em 9.202em 10.08em 10.636em 10.969em 11.526em 12.404em 12.737em 13.237em
+							 13.793em 14.349em 15.227em 15.783em 16.34em 16.673em 17.551em 18.107em 18.607em 19.163em 19.385em 19.941em
+							 20.441em 20.998em 21.554em 21.831em 22.71em 23.321em 23.877em 24.755em 25.033em 25.589em 25.811em 26.311em
+							 27.189em 27.745em 28.301em 28.858em 29.135em 30.014em 30.514em 31.07em 31.626em 31.848em 32.404em 32.737em"
+						dy="0em" class="st8">the targets are (can be) achieved. To this end, senior <v:tabChar/></tspan><tspan x="
+							3.877em 4.71em 5.266em 5.822em 6.378em 6.934em 7.49em 8.323em 8.88em 9.436em 9.714em 10.872em 11.705em
+							 12.261em 12.761em 13.317em 13.817em 14.976em 15.532em 16.032em 16.588em 16.81em 17.033em 17.589em 18.145em
+							 18.367em 18.923em 20.082em 20.36em 20.916em 21.472em 22.63em 23.187em 23.743em 24.243em 24.799em 25.299em
+							 25.799em 26.355em 26.688em 27.188em 28.347em 28.68em 29.236em 29.736em 30.292em 30.848em 31.181em 31.681em
+							 32.237em 32.737em" dy="1.204em" class="st8">management makes available the necessary resources <v:tabChar/></tspan><tspan
+						x="3.877em 4.21em 4.766em 5.322em 5.655em 6.155em 6.711em 7.267em 7.823em 8.38em 8.602em 8.88em 9.102em 9.658em
+							 9.936em 10.269em 10.825em 11.325em 11.603em 11.936em 12.492em 12.992em 13.27em 13.826em 14.159em 14.715em
+							 15.048em" dy="1.2em" class="st8">(personnel,infrastructure).<v:newlineChar/><v:newlineChar/></tspan><tspan
+						x="0.333em 0.944em 1.5em 1.883em 2.439em 2.94em 3.496em 3.718em 4.274em 4.774em 5.33em 5.713em 5.991em 6.547em
+							 6.769em 7.269em 7.547em 7.93em 8.43em 8.986em 9.209em 9.486em 10.043em 10.599em 10.821em 11.377em 11.76em
+							 12.316em 12.538em 13.095em 13.651em 14.207em 14.429em 14.985em 15.541em 15.924em 16.146em 16.703em 17.203em
+							 17.48em 17.813em 18.37em 19.203em 19.759em 20.315em 20.593em 21.093em 21.476em 21.754em 22.31em 22.866em
+							 23.144em 23.527em 24.083em 24.416em 24.972em 25.355em 25.577em 26.133em 26.411em 26.967em 27.524em 27.857em
+							 28.413em 28.691em 29.247em 29.803em 30.186em 30.408em 30.964em 31.347em 31.625em 32.181em 32.737em"
+						dy="2.4em" class="st8">To achieve this, suitable planning instruments that are integrated in the </tspan><tspan
+						x="0.333em 0.833em 1.39em 2.223em 2.779em 3.335em 3.891em 4.391em 4.669em 5.225em 5.558em 6.114em 6.614em
+							 7.17em 7.67em" dy="1.2em" class="st8">company process<v:newlineChar/></tspan><tspan x="0.333em 0.666em
+							 1.166em 1.444em 2em 2.556em 2.889em 3.112em 3.668em 4.224em 4.524em 5.08em 5.636em 6.192em 6.492em 7.048em
+							 7.326em 7.882em 8.438em 8.771em 9.071em 9.571em 10.127em 10.96em 11.793em 12.016em 12.293em 12.571em
+							 13.127em 13.684em 14.184em 14.517em 14.816em 15.373em 15.929em 16.485em 16.785em 17.062em 17.619em 18.175em
+							 18.453em 18.752em 19.309em 19.865em 20.421em 20.754em 21.31em 21.81em 22.31em 22.61em 22.888em 23.444em
+							 24em 24.3em 24.578em 25.134em 25.356em 25.578em 26.134em 26.856em 27.079em 27.635em 28.191em 28.491em
+							 29.047em 29.38em 29.936em 30.492em 30.992em 31.292em 31.848em 32.181em 32.737em" dy="1.2em"
+						class="st8">(steering and other committees) and that address the following areas are </tspan><tspan x="0.333em
+							 0.889em 1.39em 1.946em 2.502em" dy="1.2em" class="st8">used:<v:newlineChar/><v:newlineChar/></tspan><tspan
+						x="0.333em" dy="2.412em" class="st9"><v:tabChar/></tspan><tspan x="3.877em 4.654em 5.211em 5.767em 5.989em
+							 6.211em 6.489em" dy="0em" class="st8">Quality<v:newlineChar/></tspan><tspan x="0.333em" dy="1.216em"
+						class="st9"><v:tabChar/></tspan><tspan x="3.877em 4.654em 5.154em 5.654em 6.211em 6.767em 7.323em 7.601em
+							 7.823em 8.379em 8.935em 9.491em 9.714em 9.991em 10.548em 11.104em 11.66em 11.882em 12.16em 12.716em
+							 12.994em 13.55em 14.106em 14.662em 14.94em 15.44em 15.996em 16.274em 16.83em 17.108em" dy="0em"
+						class="st8">Occupational health and safety<v:newlineChar/></tspan><tspan x="0.333em" dy="1.216em"
+						class="st9"><v:tabChar/></tspan><tspan x="3.877em 4.71em 5.266em 5.822em 6.378em 6.934em 7.49em 8.323em
+							 8.88em 9.436em 9.714em 9.991em 10.491em 10.991em 11.491em 11.769em 12.325em" dy="0em" class="st8">Management system</tspan></text>		</g>
+	</g>
+</svg>
