@@ -1,0 +1,2407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Generiert durch Microsoft Visio, SVG Export 1422_1.svg Zulassung neuer Lieferanten -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="19.8819in" height="9.63735in"
+		viewBox="0 0 1431.5 693.889" xml:space="preserve" color-interpolation-filters="sRGB" class="st26">
+	<v:documentProperties v:langID="1031" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+			<v:ud v:nameU="msvConvertTheme"/>
+			<v:ud v:nameU="VIFLOW_Version" v:prompt="" v:val="VT4(6.00.0000)"/>
+			<v:ud v:nameU="VIFLOW__NumberAutomatically" v:prompt="" v:val="VT0(-1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#db0031;stroke:#a6a6a6;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st2 {fill:#ffffff;font-family:Arial;font-size:0.833336em;font-weight:bold}
+		.st3 {fill:#545454;fill-opacity:0.35;stroke:#a6a6a6;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st4 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st5 {fill:#7d7d7d;font-family:Arial;font-size:0.75em}
+		.st6 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st7 {fill:#000000;font-family:Arial;font-size:1.5em;font-weight:bold}
+		.st8 {fill:#ffffff;font-family:Arial;font-size:1.5em;font-weight:bold}
+		.st9 {fill:#545454;stroke:#9e9fa2;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.2}
+		.st10 {fill:#ffffff;font-family:Arial;font-size:0.666664em}
+		.st11 {fill:#ffffff}
+		.st12 {stroke:#929292;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st13 {fill:#000000;font-family:Arial;font-size:0.75em}
+		.st14 {font-size:1em}
+		.st15 {fill:#e6e6e6;stroke:#929292;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st16 {fill:#7f7f7f;font-family:Arial;font-size:0.666664em;font-weight:bold}
+		.st17 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72;visibility:hidden}
+		.st18 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st19 {marker-end:url(#mrkr13-101);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.72}
+		.st20 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.22222222222222}
+		.st21 {fill:#e6e6e6}
+		.st22 {fill:#7f7f7f;font-family:Arial;font-size:0.666664em}
+		.st23 {fill:#ffffff;stroke:none;stroke-linecap:butt}
+		.st24 {fill:#ffffff;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.24}
+		.st25 {fill:#000000;font-family:Arial;font-size:0.666664em}
+		.st26 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-101" class="st20" v:arrowType="13" v:arrowSize="2" v:setback="13.5" refX="-13.5" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-4.5,-4.5) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4(Lieferantenfreigabe)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(Lieferantenfreigabe)"/>
+			<v:ud v:nameU="VIFLOW__Firmenname" v:val="VT4(iwis motorsysteme)"/>
+			<v:ud v:nameU="VIFLOW__Bereiche_Stammdaten__ModellerAreaID__Stammdaten__Bezeichnung_A" v:val="VT4(ivanbal)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__CreationDate" v:val="VT4(22.06.2017)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__ModifiedDate" v:val="VT4(15.07.2021)"/>
+			<v:ud v:nameU="VIFLOW__DatabaseName" v:val="VT4(PRIMAS_4)"/>
+			<v:ud v:nameU="VIFLOW__Bereiche_Stammdaten__PrueferBereichID__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4()"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__VerificationDate" v:prompt="" v:val="VT4()"/>
+			<v:ud v:nameU="VIFLOW__Bereiche_Stammdaten__FreigeberBereichID__Stammdaten__Bezeichnung_A" v:prompt=""
+					v:val="VT4(Leitung Einkauf)"/>
+			<v:ud v:nameU="VIFLOW__Stammdaten__ReleaseDate" v:prompt="" v:val="VT4(06.02.2019)"/>
+			<v:ud v:nameU="VIFLOW__NumberTransparency" v:prompt="" v:val="VT4()"/>
+		</v:userDefs>
+		<title>Lieferantenfreigabe</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="2.83465"
+				v:shadowOffsetY="-2.83465"/>
+		<v:layer v:name="Daten" v:index="0"/>
+		<v:layer v:name="Bereich" v:index="1" v:snap="false" v:glue="false"/>
+		<v:layer v:name="Wasserzeichen" v:index="2" v:snap="false" v:glue="false"/>
+		<v:layer v:name="MitGDoks" v:index="3" color="#ff0000"/>
+		<v:layer v:name="Prozess" v:index="4"/>
+		<v:layer v:name="Verzweigung" v:index="5"/>
+		<v:layer v:name="Beschriftung" v:index="6"/>
+		<v:layer v:name="Flussdiagramm" v:index="7"/>
+		<g id="group154-1" transform="translate(22.6772,-70.8661)" v:mID="154" v:groupContext="group" v:layerMember="1">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Bereich)"/>
+				<v:ud v:nameU="Mehrfach" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({00000000-0000-0000-0000-000000000000})"/>
+				<v:ud v:nameU="VIFLOW__Settings__ShowWatermarks" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Lieferantenentwicklung)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Lieferantenentwicklung)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({F40988B8-F4B8-4C9E-9ABB-7F2B28A998F7})"/>
+			</v:userDefs>
+			<title>Bereich intern</title>
+			<g id="shape155-2" v:mID="155" v:groupContext="shape" v:layerMember="1"
+					transform="translate(-665.543,693.889) rotate(-90)">
+				<title>Kopf</title>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="102.756" cy="679.716" width="205.52" height="28.3465"/>
+				<rect x="0" y="665.543" width="205.512" height="28.3465" class="st1"/>
+				<text x="46.91" y="682.72" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Lieferantenentwicklung</text>			</g>
+			<g id="group156-5" transform="translate(28.3465,0)" v:mID="156" v:groupContext="group" v:layerMember="1">
+				<title>Rumpf</title>
+				<g id="shape156-6" v:mID="156" v:groupContext="groupContent" v:layerMember="1">
+					<rect x="0" y="488.377" width="1357.8" height="205.512" class="st3"/>
+				</g>
+			</g>
+			<g id="shape157-8" v:mID="157" v:groupContext="shape" v:layerMember="1" transform="translate(0,-205.512)">
+				<title>Langbezeichnung</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="693.071" cy="686.803" width="1386.15" height="14.1732"/>
+				<rect x="0" y="679.716" width="1386.14" height="14.1732" class="st4"/>
+				<text x="1290.08" y="689.5" class="st5" v:langID="1031"><v:paragraph v:horizAlign="2"/><v:tabList/>Lieferantenentwicklung</text>			</g>
+			<g id="group158-11" transform="translate(28.3465,-51.378)" v:mID="158" v:groupContext="group" v:layerMember="2">
+				<title>Tabelle.158</title>
+				<g id="shape158-12" v:mID="158" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="642.511" width="271.56" height="102.756"/>
+					<rect x="0" y="591.133" width="271.559" height="102.756" class="st4"/>
+				</g>
+			</g>
+			<g id="group159-14" transform="translate(299.906,-51.378)" v:mID="159" v:groupContext="group" v:layerMember="2">
+				<title>Tabelle.159</title>
+				<g id="shape159-15" v:mID="159" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="642.511" width="271.56" height="102.756"/>
+					<rect x="0" y="591.133" width="271.559" height="102.756" class="st4"/>
+				</g>
+			</g>
+			<g id="group160-17" transform="translate(843.024,-51.378)" v:mID="160" v:groupContext="group" v:layerMember="2">
+				<title>Tabelle.160</title>
+				<g id="shape160-18" v:mID="160" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="642.511" width="271.56" height="102.756"/>
+					<rect x="0" y="591.133" width="271.559" height="102.756" class="st4"/>
+				</g>
+			</g>
+			<g id="group161-20" transform="translate(571.465,-51.378)" v:mID="161" v:groupContext="group" v:layerMember="2">
+				<title>Bereich.8</title>
+				<g id="shape161-21" v:mID="161" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="642.511" width="271.56" height="102.756"/>
+					<rect x="0" y="591.133" width="271.559" height="102.756" class="st4"/>
+				</g>
+			</g>
+			<g id="group162-23" transform="translate(1114.58,-51.378)" v:mID="162" v:groupContext="group" v:layerMember="2">
+				<title>Bereich.9</title>
+				<g id="shape162-24" v:mID="162" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="642.511" width="271.56" height="102.756"/>
+					<rect x="0" y="591.133" width="271.559" height="102.756" class="st4"/>
+				</g>
+			</g>
+		</g>
+		<g id="group93-26" transform="translate(22.6772,-325.984)" v:mID="93" v:groupContext="group" v:layerMember="1">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Bereich)"/>
+				<v:ud v:nameU="Mehrfach" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__ShowWatermarks" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Einkauf HQ)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Einkauf HQ)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({85BE4EAE-3C8D-4FD1-92B8-8C4ACEAB419D})"/>
+				<v:ud v:nameU="VIFLOW__Settings__ShowWatermarks" v:prompt="" v:val="VT0(0):26"/>
+			</v:userDefs>
+			<title>Bereich intern.80</title>
+			<g id="shape94-27" v:mID="94" v:groupContext="shape" v:layerMember="1"
+					transform="translate(-665.543,693.889) rotate(-90)">
+				<title>Kopf</title>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="89.5913" cy="679.716" width="179.19" height="28.3465"/>
+				<rect x="0" y="665.543" width="179.183" height="28.3465" class="st1"/>
+				<text x="62.64" y="682.72" class="st2" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Einkauf HQ</text>			</g>
+			<g id="group95-30" transform="translate(28.3465,0)" v:mID="95" v:groupContext="group" v:layerMember="1">
+				<title>Rumpf</title>
+				<g id="shape95-31" v:mID="95" v:groupContext="groupContent" v:layerMember="1">
+					<rect x="0" y="514.707" width="1357.8" height="179.183" class="st3"/>
+				</g>
+			</g>
+			<g id="shape96-33" v:mID="96" v:groupContext="shape" v:layerMember="1" transform="translate(0,-179.183)">
+				<title>Langbezeichnung</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="693.071" cy="686.803" width="1386.15" height="14.1732"/>
+				<rect x="0" y="679.716" width="1386.14" height="14.1732" class="st4"/>
+				<text x="1336.12" y="689.5" class="st5" v:langID="1031"><v:paragraph v:horizAlign="2"/><v:tabList/>Einkauf HQ</text>			</g>
+			<g id="group97-36" transform="translate(28.3465,-44.7957)" v:mID="97" v:groupContext="group" v:layerMember="2">
+				<title>Tabelle.97</title>
+				<g id="shape97-37" v:mID="97" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="649.094" width="271.56" height="89.5913"/>
+					<rect x="0" y="604.298" width="271.559" height="89.5913" class="st4"/>
+				</g>
+			</g>
+			<g id="group98-39" transform="translate(299.906,-44.7957)" v:mID="98" v:groupContext="group" v:layerMember="2">
+				<title>Tabelle.98</title>
+				<g id="shape98-40" v:mID="98" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="649.094" width="271.56" height="89.5913"/>
+					<rect x="0" y="604.298" width="271.559" height="89.5913" class="st4"/>
+				</g>
+			</g>
+			<g id="group99-42" transform="translate(843.024,-44.7957)" v:mID="99" v:groupContext="group" v:layerMember="2">
+				<title>Tabelle.99</title>
+				<g id="shape99-43" v:mID="99" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="649.094" width="271.56" height="89.5913"/>
+					<rect x="0" y="604.298" width="271.559" height="89.5913" class="st4"/>
+				</g>
+			</g>
+			<g id="group100-45" transform="translate(571.465,-44.7957)" v:mID="100" v:groupContext="group" v:layerMember="2">
+				<title>Bereich.8</title>
+				<g id="shape100-46" v:mID="100" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="649.094" width="271.56" height="89.5913"/>
+					<rect x="0" y="604.298" width="271.559" height="89.5913" class="st4"/>
+				</g>
+			</g>
+			<g id="group101-48" transform="translate(1114.58,-44.7957)" v:mID="101" v:groupContext="group" v:layerMember="2">
+				<title>Bereich.9</title>
+				<g id="shape101-49" v:mID="101" v:groupContext="groupContent" v:layerMember="2">
+					<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+					<v:textRect cx="135.78" cy="649.094" width="271.56" height="89.5913"/>
+					<rect x="0" y="604.298" width="271.559" height="89.5913" class="st4"/>
+				</g>
+			</g>
+		</g>
+		<g id="shape6-51" v:mID="6" v:groupContext="shape" transform="translate(28.3181,-575.858)">
+			<title>Tabelle.6</title>
+			<rect v:rectContext="foreign" x="0" y="688.645" width="1241.6" height="5.24409" class="st6"/>
+			<switch>
+				<foreignObject x="0" y="688.645" width="1241.6" height="5.24409"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="11776" v:data="data:metafile;base64,eNrtmEluE0EYhV
+								91Ozi2A3aMCcFMZp4hAySEKdgIJJBiIm4AkiVAjElA4gZwDI4AOxZGXmSJBEeABTfIJgvcvKr+G4UQoO0oDhb/a31yu13V5a
+								p69arVnz72f379pvgFy3QJPppBChuWXDOCUw7w5HszCILocqDqKn0jG2UON/Gzh9g5T5JekiJpkiF9Us6SDS2AfpInm0mBbJ
+								Eyqu7QLTzmMYcSruIRP2fwAq1ogI6J7uU5r/jueiP8+dpKdWyJRi7KlJt4gBraVRqeWdqfuPUKPzLtCvv/EE/4P+7gfsvt59
+								m+kT7Fbd+Wn5JzT/o/zZGvYRZD7oivQel/ooX2bdkbMv5Nmbem3ONv699mhc2JP63/AbLV/TdgGymS7WQH2Ul2kd2kRPaQvW
+								Qf2U8OkIPkEDlMjpCj5Bg5Tk6Qk+QUseM0TEbIKDlNzpAxMk7OkglyjpwnF8hFt7cBk+QyKZPKf5xZJtzG25bhyPnp0HvL17
+								710HRl5tnsXax8ujDx9ilWpwaNWJl6nw2/jYlr6uJg4zwIvMz+WlOzP5IvmWBkVCJDvOKifmdzIGd/YxL4CRsJ+JqMUsQ3vS
+								4x+rzFoO7OMq6yPUuahJQtZ0r4wPmou7vaktB5Uq2t1Dcq9Y2qY75RqdqRLh1VO3mjQ6BS36g65Rv/N/tXtVy9rrt4typ6/z
+								6MIVRxG3O4h+ctvI8vwvspUeLUsU6az67NE9R6P8F1W/sabLp/qtQ3qn/VNyrVap8KVKq4eaNDoFLfqDrlG9V66jveYoRM"/>
+				</foreignObject>
+				<svg viewBox="0 0 592.42 4.3344" enable-background="new" color-interpolation-filters="sRGB" height="5.24409"
+						preserveAspectRatio="none" width="1241.6" x="0" y="688.645">
+					<defs>
+						<clipPath id="mfid759">
+							<rect id="mfid760" x="0" y="0" width="592.42" height="4.3344"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid759)">
+						<mask id="mfid758" fill-rule="evenodd">
+							<g>
+								<rect width="592" height="4" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid758)">
+							<g transform="matrix(3.1323, 0, 0, -0.57143, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<image width="189" height="7" transform="scale(1,-1)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL0AAAAHCAIAAADS5Nt0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAqSURBVFhH7dIxAQAwDAKw+jfNnhmAO9GQC/S8YeENi4PF/wMNb1h4Qy95ix89elJChc4AAAAASUVORK5CYII="/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid761" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="592" height="4"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="688.645" width="1241.6" height="5.24409" class="st6"/>
+		</g>
+		<g id="shape14-54" v:mID="14" v:groupContext="shape" transform="translate(1289.76,-534.895)">
+			<title>Tabelle.14</title>
+			<rect v:rectContext="foreign" x="0" y="598.639" width="120" height="95.25" class="st6"/>
+			<image x="0" y="598.639" width="120" height="95.25" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVB
+						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"/>
+			<rect v:rectContext="foreign" x="0" y="598.639" width="120" height="95.25" class="st6"/>
+		</g>
+		<g id="group15-58" transform="translate(22.6772,-583.937)" v:mID="15" v:groupContext="group">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({00000000-0000-0000-0000-000000000000})"/>
+			</v:userDefs>
+			<title>Titelzeile einfach</title>
+			<g id="shape16-59" v:mID="16" v:groupContext="shape">
+				<title>Tabelle.16</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="623.622" cy="682.551" width="1247.25" height="22.6772"/>
+				<rect x="0" y="671.212" width="1247.24" height="22.6772" class="st4"/>
+				<text x="4" y="687.95" class="st7" v:langID="1031"><v:paragraph/><v:tabList/>Lieferantenfreigabe</text>			</g>
+			<g id="shape17-62" v:mID="17" v:groupContext="shape" transform="translate(634.166,-53.8583)">
+				<title>Tabelle.17</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="301.059" cy="682.551" width="602.12" height="22.6772"/>
+				<text x="436.06" y="687.95" class="st8" v:langID="1031"><v:paragraph v:horizAlign="2"/><v:tabList/>iwis motorsysteme</text>			</g>
+		</g>
+		<g id="group1-64" transform="translate(22.6772,-28.3465)" v:mID="1" v:groupContext="group">
+			<title>Fußzeile einfach</title>
+			<g id="shape2-65" v:mID="2" v:groupContext="shape">
+				<title>Tabelle.2</title>
+				<desc>Ersteller:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="175.144" cy="688.22" width="350.29" height="11.3386"/>
+				<rect x="0" y="682.551" width="350.289" height="11.3386" class="st9"/>
+				<text x="4" y="690.62" class="st10" v:langID="1031"><v:paragraph/><v:tabList/>Ersteller: ivanbal</text>			</g>
+			<g id="shape3-68" v:mID="3" v:groupContext="shape" transform="translate(350.182,0)">
+				<title>Tabelle.3</title>
+				<desc>Erstelldatum:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="175.144" cy="688.22" width="350.29" height="11.3386"/>
+				<rect x="0" y="682.551" width="350.289" height="11.3386" class="st9"/>
+				<text x="4" y="690.62" class="st10" v:langID="1031"><v:paragraph/><v:tabList/>Erstelldatum: 22.06.2017</text>			</g>
+			<g id="shape4-71" v:mID="4" v:groupContext="shape" transform="translate(700.47,0)">
+				<title>Tabelle.4</title>
+				<desc>letzte Änderung:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="162.785" cy="688.22" width="325.58" height="11.3386"/>
+				<rect x="0" y="682.551" width="325.571" height="11.3386" class="st9"/>
+				<text x="4" y="690.62" class="st10" v:langID="1031"><v:paragraph/><v:tabList/>letzte Änderung: 15.07.2021</text>			</g>
+			<g id="shape5-74" v:mID="5" v:groupContext="shape" transform="translate(1025.84,0)">
+				<title>Tabelle.5</title>
+				<desc>Datenbank:</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="180.148" cy="688.22" width="360.3" height="11.3386"/>
+				<rect x="0" y="682.551" width="360.297" height="11.3386" class="st9"/>
+				<text x="4" y="690.62" class="st10" v:langID="1031"><v:paragraph/><v:tabList/>Datenbank: PRIMAS_4</text>			</g>
+		</g>
+		<g id="shape7-77" v:mID="7" v:groupContext="shape" transform="translate(9.99201E-16,-324.468)">
+			<title>Tabelle.7</title>
+			<rect v:rectContext="foreign" x="0" y="479.774" width="14.1732" height="214.115" class="st6"/>
+			<switch>
+				<foreignObject x="0" y="479.774" width="14.1732" height="214.115"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="58880" v:data="data:metafile;base64,eNrt3clOFFEYhu
+								G/ukBGBxCxxQnnWQEFxRkQFJUGcZ5FRYEGGTUxJCy8Ezfu9QpYuDTRrXGjd+DChRu7/ar6NBLEhEaIwbwnvEnRw1Mc6tDF7n
+								x4X/T55euyLzZlHDffEsk8WzTpMc8VjmVmEfd9IplMph9OMhbU+KGOuGsYlK3j4JrnqFyVp/JVgSpUi9UStTS1BKxIFavlqk
+								StUKVqpYqqVapMrVZr1Fq1Tq1X5WqD2qg2qc1qi9qqtqntaofaqXap3WqP2qv2qQpVqarUfnVAVasadVAdUrXq8KT5HQvXtt
+								kJdVLVqXrVoE6pRtWkTqszqlmdVefUedWiYqpVtakLql1dVJfUZXVFXVXX1HV1Q91Ut9RtdUfdVfdUh7qvHqiHqlM9Uo9Vl+
+								pWPSquelWfeqL61YAadHOb7WiX1G8juhaNckdsyJ5bJqPUsif+5iPhWvHDx8dTTzdN9x7/1/P6/GjVvDpttiPfIt7k+cz0fS
+								UT52/Q/Pv0u2zVdejJ+PzFOr/n5jTT83tuHQUj4ubfpt98pw1rTVeE63qmI+rmn5XB+YPXVvWmjhPuuiUW1KcWY66Gl7qNz3
+								p4Wjl+fmrtTf3bD+4hbfVDT4e7bPrDb7VvBo3xL0dw3Xz3meC579MLYlQHo7oRf40Hz+k/Af97cHu1j9XpTxHfy7XgP4bCyI
+								tENDwqCN8cHOV4We61dQXl9s7GvGioBq80d3cPjsa8QE89NhD//SestE9//6VZ4eDg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4O
+								Dg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4O
+								Dg4ODg4ODg4MyH4/9hp7BYXayZ/dL+t5Hef7PSKixmHTZi3fYsg/04yyxime6/eVS9jc/tHnaZ7v8513voLdTzj+s61Le8cl
+								ejhn35cHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcH
+								BwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBw/hNnfvYO+wliwHZB"/>
+				</foreignObject>
+				<svg viewBox="0 0 39.232 591.8" enable-background="new" color-interpolation-filters="sRGB" height="214.115"
+						preserveAspectRatio="none" width="14.1732" x="0" y="479.774">
+					<defs>
+						<clipPath id="mfid763">
+							<rect id="mfid764" x="0" y="0" width="39.232" height="591.8"/>
+						</clipPath>
+					</defs>
+					<g clip-path="url(#mfid763)">
+						<mask id="mfid762" fill-rule="evenodd">
+							<g>
+								<rect width="39" height="592" fill="white" stroke="none"/>
+							</g>
+						</mask>
+						<g mask="url(#mfid762)">
+							<g transform="matrix(1.625, 0, 0, -1.5497, 0, 0)">
+								<g stroke="#000000" stroke-miterlimit="10" fill="none">
+									<image width="24" height="382" transform="scale(1,-1)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAF+CAIAAAAXz01cAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACzSURBVHhe7cwxDcAwAASxUCp/KAXzheChGU/y7POe579tRVBkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRVZkRXYv2j4xWWW3uRfAfQAAAABJRU5ErkJggg=="/>
+								</g>
+							</g>
+						</g>
+						<mask id="mfid765" fill-rule="evenodd" fill="white" stroke="none">
+							<rect x="0" y="0" width="39" height="592"/>
+						</mask>
+					</g>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="479.774" width="14.1732" height="214.115" class="st6"/>
+		</g>
+		<g id="group102-80" transform="translate(124.197,-439.37)" v:mID="102" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4()"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(PROZESS)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4()"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4()"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Lieferanten auswählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Lieferanten auswählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:prompt="" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({86A714EC-4032-479C-B40B-36F0FF50FF7B})"/>
+			</v:userDefs>
+			<title>Prozess</title>
+			<g id="shape102-81" v:mID="102" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="665.543" width="85.04" height="56.6929"/>
+				<path d="M5.67 693.89 L79.37 693.89 A5.66929 5.66929 -180 0 0 85.04 688.22 L85.04 642.87 A5.66929 5.66929 -180 0
+							 0 79.37 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89 Z" class="st11"/>
+				<path d="M5.67 693.89 L79.37 693.89 A5.66929 5.66929 -180 0 0 85.04 688.22 L85.04 642.87 A5.66929 5.66929 -180 0
+							 0 79.37 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89" class="st12"/>
+				<path d="M3.69 650.52 L81.35 650.52" class="st12"/>
+				<text x="20" y="669.5" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Lieferanten <tspan
+							x="21" dy="1.2em" class="st14">auswählen</tspan></text>			</g>
+			<g id="shape103-87" v:mID="103" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="687.228" width="85.04" height="13.3228"/>
+				<path d="M20.2 691.34 L19.49 691.34 L19.49 682.98 L25.16 682.98 L25.87 683.68 L25.87 691.34 L20.2 691.34 L20.2 691.9
+							 L26.58 691.9 L26.58 684.11 L25.87 683.4 L26.01 683.54 L26.01 691.34 L26.16 691.34 L26.16 683.68 L26.3
+							 683.83 L26.3 691.34 L26.44 691.34 L26.44 684.25 L26.44 691.76 L20.2 691.76 L20.2 691.62 L26.44 691.62
+							 L26.44 691.48 L20.2 691.48 L20.2 691.34 Z" class="st15"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>1</text>			</g>
+		</g>
+		<g id="group106-90" transform="translate(81.6771,-556.515)" v:mID="106" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(46):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Angebot von potentiellen Lieferanten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({37D2051D-C108-4B04-A21D-6960C6A7560A})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(Angebot von potentiellen Lieferanten)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Daten</title>
+			<g id="shape107-91" v:mID="107" v:groupContext="shape" v:layerMember="0" transform="translate(-28.3465,14.8018)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="679.087" width="141.74" height="29.6036"/>
+				<rect x="0" y="664.286" width="141.732" height="29.6036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="21.3267" y="668.288" width="99.0791" height="21.5997" class="st18"/>
+				<text x="21.33" y="676.39" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Angebot von potentiellen <tspan
+							x="48.35" dy="1.2em" class="st14">Lieferanten</tspan></text>			</g>
+			<g id="shape106-96" v:mID="106" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="693.889" width="141.74" height="29.6036"/>
+				<path d="M0 693.89 L76.54 693.89 A8.50394 8.50394 0 0 1 85.04 702.39 L85.04 744.62" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="-7.0198" y="683.089" width="99.0791" height="21.5997" class="st18"/>
+				<text x="-7.02" y="691.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Angebot von potentiellen <tspan
+							x="20" dy="1.2em" class="st14">Lieferanten</tspan></text>			</g>
+		</g>
+		<g id="group108-105" transform="translate(81.6771,-538.583)" v:mID="108" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(46):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({113539A2-FF86-4225-BAC7-D064C9A367D2})"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Daten.98</title>
+			<g id="shape109-106" v:mID="109" v:groupContext="shape" v:layerMember="0" transform="translate(-42.5197,9.4018)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+			</g>
+			<g id="shape108-108" v:mID="108" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="28.3465" cy="693.889" width="141.74" height="18.8036"/>
+				<path d="M0 693.89 L76.54 693.89 A8.50394 8.50394 0 0 1 85.04 702.39 L85.04 726.69" class="st19"/>
+			</g>
+		</g>
+		<g id="group110-113" transform="translate(260.089,-439.37)" v:mID="110" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(VERZWEIGUNG)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt=""
+						v:val="VT4(Lieferantenauswahl für Prototyp, Serie oder Aftermarket (AM)?)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt=""
+						v:val="VT4(Lieferantenauswahl für Prototyp, Serie oder Aftermarket (AM)?)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:prompt="" v:val="VT4(Fallentscheid AM-Lieferant siehe AA10005GEN)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({02B5626B-CB58-4495-AEB7-55D6C32DDBA3})"/>
+			</v:userDefs>
+			<title>Verzweigung.160</title>
+			<g id="shape110-114" v:mID="110" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="665.543" width="95.49" height="56.6929"/>
+				<path d="M4.02 693.89 L91.47 693.89 A5.66929 5.66929 -180 0 0 96.82 690.09 L104.75 667.42 A5.66929 5.66929 -180 0
+							 0 104.75 663.67 L96.82 640.99 A5.66929 5.66929 -180 0 0 91.47 637.2 L4.02 637.2 A5.66929 5.66929 -180
+							 0 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929
+							 -180 0 0 4.02 693.89 Z" class="st11"/>
+				<path d="M3.69 650.52 L91.8 650.52" class="st12"/>
+				<path d="M4.02 693.89 L91.47 693.89 A5.66929 5.66929 -180 0 0 96.82 690.09 L104.75 667.42 A5.66929 5.66929 -180 0
+							 0 104.75 663.67 L96.82 640.99 A5.66929 5.66929 -180 0 0 91.47 637.2 L4.02 637.2 A5.66929 5.66929 -180
+							 0 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929
+							 -180 0 0 4.02 693.89" class="st12"/>
+				<text x="8.72" y="658.7" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Lieferantenauswahl <tspan
+							x="11.48" dy="1.2em" class="st14">für Prototyp, Serie </tspan><tspan x="14.23" dy="1.2em" class="st14">oder Aftermarket </tspan><tspan
+							x="35.49" dy="1.2em" class="st14">(AM)?</tspan></text>			</g>
+			<g id="shape111-122" v:mID="111" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(43):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="687.228" width="95.49" height="13.3228"/>
+				<path d="M20.2 682.98 L21.34 682.98 L27.57 682.98 A1.27559 1.27559 0 0 1 28.71 684.11 L28.71 687.51 A1.27559 1.27559
+							 0 0 1 27.57 688.65 L24.74 688.65 L21.9 691.76 L21.9 688.65 L21.34 688.65 A1.27559 1.27559 0 0 1 20.2
+							 687.51 L20.2 684.11 A1.27559 1.27559 0 0 1 21.34 682.98 L20.2 682.98 ZM33.38 691.34 L32.68 691.34 L32.68
+							 682.98 L38.34 682.98 L39.05 683.68 L39.05 691.34 L33.38 691.34 L33.38 691.9 L39.76 691.9 L39.76 684.11
+							 L39.05 683.4 L39.19 683.54 L39.19 691.34 L39.34 691.34 L39.34 683.68 L39.48 683.83 L39.48 691.34 L39.62
+							 691.34 L39.62 684.25 L39.62 691.76 L33.38 691.76 L33.38 691.62 L39.62 691.62 L39.62 691.48 L33.38 691.48
+							 L33.38 691.34 Z" class="st21"/>
+				<path d="M21.34 682.98 L27.57 682.98 A1.27559 1.27559 0 0 1 28.71 684.11 L28.71 687.51 A1.27559 1.27559 0 0 1 27.57
+							 688.65 L24.74 688.65 L21.9 691.76 L21.9 688.65 L21.34 688.65 A1.27559 1.27559 0 0 1 20.2 687.51 L20.2
+							 684.11 A1.27559 1.27559 0 0 1 21.34 682.98M33.38 691.34 L32.68 691.34 L32.68 682.98 L38.34 682.98 L39.05
+							 683.68 L39.05 691.34 L33.38 691.34 L33.38 691.9 L39.76 691.9 L39.76 684.11 L39.05 683.4 L39.19 683.54
+							 L39.19 691.34 L39.34 691.34 L39.34 683.68 L39.48 683.83 L39.48 691.34 L39.62 691.34 L39.62 684.25 L39.62
+							 691.76 L33.38 691.76 L33.38 691.62 L39.62 691.62 L39.62 691.48 L33.38 691.48 L33.38 691.34"
+						class="st12"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>2</text>			</g>
+		</g>
+		<g id="group112-126" transform="translate(209.236,-460.63)" v:mID="112" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({823ABA6B-1578-4D8D-BA4B-072BBC977A67})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector</title>
+			<g id="shape113-127" v:mID="113" v:groupContext="shape" v:layerMember="0" transform="translate(-50.4006,2.31519)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+			</g>
+			<g id="shape112-129" v:mID="112" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="20.4656" cy="686.803" width="141.74" height="18.8036"/>
+				<path d="M0 686.8 L31.21 686.8" class="st19"/>
+			</g>
+		</g>
+		<g id="group114-134" transform="translate(265.313,-205.512)" v:mID="114" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(PROZESS)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(3):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt=""
+						v:val="VT4(Potentialanalyse durchführen nach VDA 6.3)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Potentialanalyse durchführen nach VDA 6.3)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({2B444F88-9C48-411C-AB0D-B0EFB9249E9C})"/>
+			</v:userDefs>
+			<title>Prozess.159</title>
+			<g id="shape114-135" v:mID="114" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="665.543" width="85.04" height="56.6929"/>
+				<path d="M5.67 693.89 L79.37 693.89 A5.66929 5.66929 -180 0 0 85.04 688.22 L85.04 642.87 A5.66929 5.66929 -180 0
+							 0 79.37 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89 Z" class="st11"/>
+				<path d="M5.67 693.89 L79.37 693.89 A5.66929 5.66929 -180 0 0 85.04 688.22 L85.04 642.87 A5.66929 5.66929 -180 0
+							 0 79.37 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89" class="st12"/>
+				<path d="M3.69 650.52 L81.35 650.52" class="st12"/>
+				<text x="9.5" y="664.1" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Potentialanalyse <tspan
+							x="7.5" dy="1.2em" class="st14">durchführen nach </tspan><tspan x="25.76" dy="1.2em" class="st14">VDA 6.3</tspan></text>			</g>
+			<g id="shape115-142" v:mID="115" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="687.228" width="85.04" height="13.3228"/>
+				<path d="M20.2 691.34 L19.49 691.34 L19.49 682.98 L25.16 682.98 L25.87 683.68 L25.87 691.34 L20.2 691.34 L20.2 691.9
+							 L26.58 691.9 L26.58 684.11 L25.87 683.4 L26.01 683.54 L26.01 691.34 L26.16 691.34 L26.16 683.68 L26.3
+							 683.83 L26.3 691.34 L26.44 691.34 L26.44 684.25 L26.44 691.76 L20.2 691.76 L20.2 691.62 L26.44 691.62
+							 L26.44 691.48 L20.2 691.48 L20.2 691.34 Z" class="st15"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>3</text>			</g>
+		</g>
+		<g id="group118-145" transform="translate(509.811,-205.512)" v:mID="118" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(VERZWEIGUNG)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(5):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Ist eine Vergabe möglich?)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Ist eine Vergabe möglich?)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:prompt=""
+						v:val="VT4(Ergebnisinterpretation der Potentialanalyse gemäß VDA 6.3:&#10;&#10;grün = freigegebener Bewerber&#10;Der Bewerber verfügt über das Potential, die Anforderungen zum angefragten Umfang umzusetzen und kann für eine Vergabe herangezogen werden. Eine Vergabe ist ohne Einschränkung möglich.&#10;&#10;gelb = gesteuerter Bewerber&#10;Für den angefragten Umfang kann nur eine bedingte Vergabeempfehlung erfolgen. Zur Erreichnung eine grün Bewertung muss der Lieferanten einen abgestimmten Maßnahmenplan umsetzen.&#10;&#10;rot = gesperrter Bewerber&#10;Eine Projektvergabe ist nicht möglich.)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({EF8B191B-7CA2-4F38-AD83-4EF662B3CF71})"/>
+			</v:userDefs>
+			<title>Verzweigung.94</title>
+			<g id="shape118-146" v:mID="118" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.2677" cy="665.543" width="76.54" height="56.6929"/>
+				<path d="M4.02 693.89 L72.51 693.89 A5.66929 5.66929 -180 0 0 77.86 690.09 L85.8 667.42 A5.66929 5.66929 -180 0 0
+							 85.8 663.67 L77.86 640.99 A5.66929 5.66929 -180 0 0 72.51 637.2 L4.02 637.2 A5.66929 5.66929 -180 0
+							 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929 -180
+							 0 0 4.02 693.89 Z" class="st11"/>
+				<path d="M3.69 650.52 L72.85 650.52" class="st12"/>
+				<path d="M4.02 693.89 L72.51 693.89 A5.66929 5.66929 -180 0 0 77.86 690.09 L85.8 667.42 A5.66929 5.66929 -180 0 0
+							 85.8 663.67 L77.86 640.99 A5.66929 5.66929 -180 0 0 72.51 637.2 L4.02 637.2 A5.66929 5.66929 -180 0
+							 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929 -180
+							 0 0 4.02 693.89" class="st12"/>
+				<text x="5.5" y="669.5" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Ist eine Vergabe <tspan
+							x="20.26" dy="1.2em" class="st14">möglich?</tspan></text>			</g>
+			<g id="shape119-152" v:mID="119" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(556):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.2677" cy="687.228" width="76.54" height="13.3228"/>
+				<path d="M20.2 682.98 L21.34 682.98 L27.57 682.98 A1.27559 1.27559 0 0 1 28.71 684.11 L28.71 687.51 A1.27559 1.27559
+							 0 0 1 27.57 688.65 L24.74 688.65 L21.9 691.76 L21.9 688.65 L21.34 688.65 A1.27559 1.27559 0 0 1 20.2
+							 687.51 L20.2 684.11 A1.27559 1.27559 0 0 1 21.34 682.98 L20.2 682.98 Z" class="st21"/>
+				<path d="M21.34 682.98 L27.57 682.98 A1.27559 1.27559 0 0 1 28.71 684.11 L28.71 687.51 A1.27559 1.27559 0 0 1 27.57
+							 688.65 L24.74 688.65 L21.9 691.76 L21.9 688.65 L21.34 688.65 A1.27559 1.27559 0 0 1 20.2 687.51 L20.2
+							 684.11 A1.27559 1.27559 0 0 1 21.34 682.98" class="st12"/>
+				<text x="8.82" y="690.19" class="st22" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>5</text>			</g>
+		</g>
+		<g id="group120-156" transform="translate(350.352,-226.772)" v:mID="120" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(Ergebnis der Potentialanalyse)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({1F179663-2E8D-4E2E-8557-354E99B8443D})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(Ergebnis der Potentialanalyse)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.96</title>
+			<g id="shape121-157" v:mID="121" v:groupContext="shape" v:layerMember="0" transform="translate(3.90254,2.31519)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="11.0786" y="679.088" width="119.575" height="10.7998" class="st18"/>
+				<text x="11.08" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Ergebnis der Potentialanalyse</text>			</g>
+			<g id="shape120-161" v:mID="120" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="74.7687" cy="686.803" width="141.74" height="18.8036"/>
+				<path d="M0 686.8 L139.82 686.8" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="14.9812" y="681.403" width="119.575" height="10.7998" class="st18"/>
+				<text x="14.98" y="689.5" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Ergebnis der Potentialanalyse</text>			</g>
+		</g>
+		<g id="group132-168" transform="translate(265.313,-106.299)" v:mID="132" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(PROZESS)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(4):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Q-Gespräch durchführen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Q-Gespräch durchführen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:prompt="" v:val="VT0(2):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({B6121BDB-45EE-4760-B15A-24BFCE4D0E98})"/>
+			</v:userDefs>
+			<title>Prozess.191</title>
+			<g id="shape132-169" v:mID="132" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="665.543" width="85.04" height="56.6929"/>
+				<path d="M5.67 693.89 L79.37 693.89 A5.66929 5.66929 -180 0 0 85.04 688.22 L85.04 642.87 A5.66929 5.66929 -180 0
+							 0 79.37 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89 Z" class="st11"/>
+				<path d="M5.67 693.89 L79.37 693.89 A5.66929 5.66929 -180 0 0 85.04 688.22 L85.04 642.87 A5.66929 5.66929 -180 0
+							 0 79.37 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89" class="st12"/>
+				<path d="M3.69 650.52 L81.35 650.52" class="st12"/>
+				<text x="18.01" y="669.5" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Q-Gespräch <tspan
+							x="18.5" dy="1.2em" class="st14">durchführen</tspan></text>			</g>
+			<g id="shape133-175" v:mID="133" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(2):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(2):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="687.228" width="85.04" height="13.3228"/>
+				<path d="M20.2 691.34 L19.49 691.34 L19.49 682.98 L25.16 682.98 L25.87 683.68 L25.87 691.34 L20.2 691.34 L20.2 691.9
+							 L26.58 691.9 L26.58 684.11 L25.87 683.4 L26.01 683.54 L26.01 691.34 L26.16 691.34 L26.16 683.68 L26.3
+							 683.83 L26.3 691.34 L26.44 691.34 L26.44 684.25 L26.44 691.76 L20.2 691.76 L20.2 691.62 L26.44 691.62
+							 L26.44 691.48 L20.2 691.48 L20.2 691.34 Z" class="st15"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>4</text>			</g>
+		</g>
+		<g id="group134-178" transform="translate(283.961,-439.37)" v:mID="134" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A"
+						v:val="VT4(Prototypenlieferant oder AM-Lieferant Fall A oder Serienlieferant für ausgegliederte Fertigungsprozesse)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({E6FCBEAE-2EF1-4212-B249-31912218D5F7})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt=""
+						v:val="VT4(Prototypenlieferant oder AM-Lieferant Fall A oder Serienlieferant für ausgegliederte Fertigungsprozesse)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.139</title>
+			<g id="shape135-179" v:mID="135" v:groupContext="shape" v:layerMember="0" transform="translate(-142.228,95.0401)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="56.6929" cy="684.487" width="113.39" height="18.8036"/>
+				<rect x="0" y="675.086" width="113.386" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="7.92252" y="657.487" width="97.541" height="53.9992" class="st18"/>
+				<text x="8.66" y="665.59" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Prototypenlieferant oder <tspan
+							x="7.92" dy="1.2em" class="st14">AM</tspan>-Lieferant Fall A oder <tspan x="21.17" dy="1.2em"
+							class="st14">Serienlieferant für </tspan><tspan x="27.17" dy="1.2em" class="st14">ausgegliederte </tspan><tspan
+							x="17.17" dy="1.2em" class="st14">Fertigungsprozesse</tspan></text>			</g>
+			<g id="shape134-187" v:mID="134" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="-85.5354" cy="779.528" width="113.39" height="18.8036"/>
+				<path d="M0 693.89 L0 718.46 A8.50394 8.50394 0 0 1 -8.5 726.96 L-62.86 726.96 A8.50394 8.50394 -180 0 0 -71.36 735.46
+							 L-71.36 990.11 A8.50394 8.50394 -180 0 0 -62.86 998.61 L-28.37 998.61" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="-134.306" y="752.528" width="97.541" height="53.9992" class="st18"/>
+				<text x="-133.57" y="760.63" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Prototypenlieferant oder <tspan
+							x="-134.31" dy="1.2em" class="st14">AM</tspan>-Lieferant Fall A oder <tspan x="-121.05" dy="1.2em"
+							class="st14">Serienlieferant für </tspan><tspan x="-115.06" dy="1.2em" class="st14">ausgegliederte </tspan><tspan
+							x="-125.06" dy="1.2em" class="st14">Fertigungsprozesse</tspan></text>			</g>
+		</g>
+		<g id="group136-198" transform="translate(350.352,-134.646)" v:mID="136" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(Ergebnis Q-Gespräch)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({4481A589-5617-4AAA-8A51-7077B28CFF64})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(Ergebnis Q-Gespräch)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.141</title>
+			<g id="shape137-199" v:mID="137" v:groupContext="shape" v:layerMember="0" transform="translate(11.9394,13.9041)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="64.1574" cy="679.985" width="128.32" height="27.8082"/>
+				<rect x="0" y="666.081" width="128.315" height="27.8082" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="20.6384" y="674.585" width="87.0381" height="10.7998" class="st18"/>
+				<text x="20.64" y="682.69" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Ergebnis Q-Gespräch</text>			</g>
+			<g id="shape136-203" v:mID="136" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="76.0969" cy="693.889" width="128.32" height="27.8082"/>
+				<path d="M0 693.89 L170.09 693.89 A8.50394 8.50394 -180 0 0 178.59 685.39 L178.59 632.74" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="32.5778" y="688.489" width="87.0381" height="10.7998" class="st18"/>
+				<text x="32.58" y="696.59" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Ergebnis Q-Gespräch</text>			</g>
+		</g>
+		<g id="group144-210" transform="translate(365.498,-467.717)" v:mID="144" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(AM-Lieferant Fall B / C)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({A5FA91F5-5A65-499A-8184-A0DE22561A53})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(AM-Lieferant Fall B / C)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.157</title>
+			<g id="shape145-211" v:mID="145" v:groupContext="shape" v:layerMember="0" transform="translate(115.744,127.559)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="66.8363" cy="684.487" width="133.68" height="18.8036"/>
+				<rect x="0" y="675.086" width="133.673" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="21.3223" y="679.088" width="91.0283" height="10.7998" class="st23"/>
+				<text x="21.32" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>AM-Lieferant Fall B / C</text>			</g>
+			<g id="shape144-215" v:mID="144" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="182.581" cy="812.047" width="133.68" height="18.8036"/>
+				<path d="M0 693.89 L174.08 693.89 A8.50394 8.50394 0 0 1 182.58 702.39 L182.58 889.68" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="137.067" y="806.647" width="91.0283" height="10.7998" class="st18"/>
+				<text x="137.07" y="814.75" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>AM-Lieferant Fall B / C</text>			</g>
+		</g>
+		<g id="group146-222" transform="translate(949.606,-439.37)" v:mID="146" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(PROZESS)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(11):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Lieferant in SAP und Babtec anlegen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Lieferant in SAP und Babtec anlegen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:prompt=""
+						v:val="VT4(Status:  Frei für Serie und Neuprojekte oder Frei für Vorserie/ Protypen vergeben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({AF641D66-4EC8-4A2E-9452-5E35B24DD48A})"/>
+			</v:userDefs>
+			<title>Prozess.223</title>
+			<g id="shape146-223" v:mID="146" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="665.543" width="85.04" height="56.6929"/>
+				<path d="M5.67 693.89 L79.37 693.89 A5.66929 5.66929 -180 0 0 85.04 688.22 L85.04 642.87 A5.66929 5.66929 -180 0
+							 0 79.37 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89 Z" class="st11"/>
+				<path d="M5.67 693.89 L79.37 693.89 A5.66929 5.66929 -180 0 0 85.04 688.22 L85.04 642.87 A5.66929 5.66929 -180 0
+							 0 79.37 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89" class="st12"/>
+				<path d="M3.69 650.52 L81.35 650.52" class="st12"/>
+				<text x="10" y="664.1" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Lieferant in SAP <tspan
+							x="19.75" dy="1.2em" class="st14">und Babtec </tspan><tspan x="26.5" dy="1.2em" class="st14">anlegen</tspan></text>			</g>
+			<g id="shape147-230" v:mID="147" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(81):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="42.5197" cy="687.228" width="85.04" height="13.3228"/>
+				<path d="M24.65 682.98 L25.79 682.98 L32.02 682.98 A1.27559 1.27559 0 0 1 33.16 684.11 L33.16 687.51 A1.27559 1.27559
+							 0 0 1 32.02 688.65 L29.19 688.65 L26.35 691.76 L26.35 688.65 L25.79 688.65 A1.27559 1.27559 0 0 1 24.65
+							 687.51 L24.65 684.11 A1.27559 1.27559 0 0 1 25.79 682.98 L24.65 682.98 ZM37.83 691.34 L37.12 691.34
+							 L37.12 682.98 L42.79 682.98 L43.5 683.68 L43.5 691.34 L37.83 691.34 L37.83 691.9 L44.21 691.9 L44.21
+							 684.11 L43.5 683.4 L43.64 683.54 L43.64 691.34 L43.79 691.34 L43.79 683.68 L43.93 683.83 L43.93 691.34
+							 L44.07 691.34 L44.07 684.25 L44.07 691.76 L37.83 691.76 L37.83 691.62 L44.07 691.62 L44.07 691.48 L37.83
+							 691.48 L37.83 691.34 Z" class="st21"/>
+				<path d="M25.79 682.98 L32.02 682.98 A1.27559 1.27559 0 0 1 33.16 684.11 L33.16 687.51 A1.27559 1.27559 0 0 1 32.02
+							 688.65 L29.19 688.65 L26.35 691.76 L26.35 688.65 L25.79 688.65 A1.27559 1.27559 0 0 1 24.65 687.51 L24.65
+							 684.11 A1.27559 1.27559 0 0 1 25.79 682.98M37.83 691.34 L37.12 691.34 L37.12 682.98 L42.79 682.98 L43.5
+							 683.68 L43.5 691.34 L37.83 691.34 L37.83 691.9 L44.21 691.9 L44.21 684.11 L43.5 683.4 L43.64 683.54
+							 L43.64 691.34 L43.79 691.34 L43.79 683.68 L43.93 683.83 L43.93 691.34 L44.07 691.34 L44.07 684.25 L44.07
+							 691.76 L37.83 691.76 L37.83 691.62 L44.07 691.62 L44.07 691.48 L37.83 691.48 L37.83 691.34"
+						class="st12"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>11</text>			</g>
+		</g>
+		<g id="shape150-234" v:mID="150" v:groupContext="shape" v:layerMember="7" transform="translate(809.291,-354.331)">
+			<title>Start/Ende</title>
+			<desc>Stop</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Prozessnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Besitzer" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funktionsname" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Startdatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Enddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nicht begonnen;In Bearbeitung;Abgeschlossen;Zurückgestellt;Auf Eingabe wartend" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1031" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="679.716" width="70.87" height="28.3465"/>
+			<path d="M14.17 693.89 L56.69 693.89 A14.1732 14.1732 -180 0 0 56.69 665.54 L14.17 665.54 A14.1732 14.1732 -180 1 0 14.17
+						 693.89 Z" class="st24"/>
+			<text x="27.2" y="682.12" class="st25" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Stop</text>		</g>
+		<g id="group163-237" transform="translate(596.268,-226.772)" v:mID="163" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(ja)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({0CB2574C-81EC-42E5-ABC6-7ACB8675016B})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(ja)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.163</title>
+			<g id="shape164-238" v:mID="164" v:groupContext="shape" v:layerMember="0" transform="translate(-45.628,2.31519)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="67.3638" y="679.088" width="7.00488" height="10.7998" class="st18"/>
+				<text x="67.36" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ja</text>			</g>
+			<g id="shape163-242" v:mID="163" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="25.2382" cy="686.803" width="141.74" height="18.8036"/>
+				<path d="M0 686.8 L40.76 686.8" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="21.7358" y="681.403" width="7.00488" height="10.7998" class="st18"/>
+				<text x="21.74" y="689.5" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ja</text>			</g>
+		</g>
+		<g id="group167-249" transform="translate(548.079,-205.512)" v:mID="167" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(nein (rot))"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({8295B705-11ED-496C-849D-CE6E77DBC165})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(nein (rot))"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.167</title>
+			<g id="shape168-250" v:mID="168" v:groupContext="shape" v:layerMember="0" transform="translate(4.67717,80.2679)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="52.8596" y="679.088" width="36.0132" height="10.7998" class="st23"/>
+				<text x="52.86" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nein (rot)</text>			</g>
+			<g id="shape167-254" v:mID="167" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="75.5433" cy="764.755" width="141.74" height="18.8036"/>
+				<path d="M0 693.89 L0 755.97 A8.50394 8.50394 -180 0 0 8.5 764.47 L288.14 764.47 A8.50394 8.50394 -180 0 0 296.65
+							 755.97 L296.65 554.79" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="57.5368" y="759.356" width="36.0132" height="10.7998" class="st18"/>
+				<text x="57.54" y="767.46" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nein (rot)</text>			</g>
+		</g>
+		<g id="group169-261" transform="translate(646.744,-439.37)" v:mID="169" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(PROZESS)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(6):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt=""
+						v:val="VT4(Entscheidung über Zulassung neuer Lieferanten treffen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt=""
+						v:val="VT4(Entscheidung über Zulassung neuer Lieferanten treffen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:prompt="" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:prompt=""
+						v:val="VT4(An eine positiv bewertete Potentialanalyse (grün oder gelb) ist nicht zwangsläufig eine Vergabeentscheidung gekoppelt.)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({97374FD0-4664-4F99-8804-1517ECD91B42})"/>
+			</v:userDefs>
+			<title>Prozess.528</title>
+			<g id="shape169-262" v:mID="169" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="665.543" width="95.49" height="56.6929"/>
+				<path d="M5.67 693.89 L89.82 693.89 A5.66929 5.66929 -180 0 0 95.49 688.22 L95.49 642.87 A5.66929 5.66929 -180 0
+							 0 89.82 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89 Z" class="st11"/>
+				<path d="M5.67 693.89 L89.82 693.89 A5.66929 5.66929 -180 0 0 95.49 688.22 L95.49 642.87 A5.66929 5.66929 -180 0
+							 0 89.82 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89" class="st12"/>
+				<path d="M3.69 650.52 L91.8 650.52" class="st12"/>
+				<text x="10.22" y="664.1" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Entscheidung über <tspan
+							x="14.22" dy="1.2em" class="st14">Zulassung neuer </tspan><tspan x="11.22" dy="1.2em" class="st14">Lieferanten treffen</tspan></text>			</g>
+			<g id="shape170-269" v:mID="170" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(1):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(118):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="687.228" width="95.49" height="13.3228"/>
+				<path d="M20.2 682.98 L21.34 682.98 L27.57 682.98 A1.27559 1.27559 0 0 1 28.71 684.11 L28.71 687.51 A1.27559 1.27559
+							 0 0 1 27.57 688.65 L24.74 688.65 L21.9 691.76 L21.9 688.65 L21.34 688.65 A1.27559 1.27559 0 0 1 20.2
+							 687.51 L20.2 684.11 A1.27559 1.27559 0 0 1 21.34 682.98 L20.2 682.98 ZM33.38 691.34 L32.68 691.34 L32.68
+							 682.98 L38.34 682.98 L39.05 683.68 L39.05 691.34 L33.38 691.34 L33.38 691.9 L39.76 691.9 L39.76 684.11
+							 L39.05 683.4 L39.19 683.54 L39.19 691.34 L39.34 691.34 L39.34 683.68 L39.48 683.83 L39.48 691.34 L39.62
+							 691.34 L39.62 684.25 L39.62 691.76 L33.38 691.76 L33.38 691.62 L39.62 691.62 L39.62 691.48 L33.38 691.48
+							 L33.38 691.34 Z" class="st21"/>
+				<path d="M21.34 682.98 L27.57 682.98 A1.27559 1.27559 0 0 1 28.71 684.11 L28.71 687.51 A1.27559 1.27559 0 0 1 27.57
+							 688.65 L24.74 688.65 L21.9 691.76 L21.9 688.65 L21.34 688.65 A1.27559 1.27559 0 0 1 20.2 687.51 L20.2
+							 684.11 A1.27559 1.27559 0 0 1 21.34 682.98M33.38 691.34 L32.68 691.34 L32.68 682.98 L38.34 682.98 L39.05
+							 683.68 L39.05 691.34 L33.38 691.34 L33.38 691.9 L39.76 691.9 L39.76 684.11 L39.05 683.4 L39.19 683.54
+							 L39.19 691.34 L39.34 691.34 L39.34 683.68 L39.48 683.83 L39.48 691.34 L39.62 691.34 L39.62 684.25 L39.62
+							 691.76 L33.38 691.76 L33.38 691.62 L39.62 691.62 L39.62 691.48 L33.38 691.48 L33.38 691.34"
+						class="st12"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>6</text>			</g>
+		</g>
+		<g id="group173-273" transform="translate(806.457,-439.37)" v:mID="173" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(VERZWEIGUNG)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(8):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Lieferant freigegeben?)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Lieferant freigegeben?)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({C2F77DFF-90F8-44E9-9762-0F3F73674EE1})"/>
+			</v:userDefs>
+			<title>Verzweigung.530</title>
+			<g id="shape173-274" v:mID="173" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.2677" cy="665.543" width="76.54" height="56.6929"/>
+				<path d="M4.02 693.89 L72.51 693.89 A5.66929 5.66929 -180 0 0 77.86 690.09 L85.8 667.42 A5.66929 5.66929 -180 0 0
+							 85.8 663.67 L77.86 640.99 A5.66929 5.66929 -180 0 0 72.51 637.2 L4.02 637.2 A5.66929 5.66929 -180 0
+							 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929 -180
+							 0 0 4.02 693.89 Z" class="st11"/>
+				<path d="M3.69 650.52 L72.85 650.52" class="st12"/>
+				<path d="M4.02 693.89 L72.51 693.89 A5.66929 5.66929 -180 0 0 77.86 690.09 L85.8 667.42 A5.66929 5.66929 -180 0 0
+							 85.8 663.67 L77.86 640.99 A5.66929 5.66929 -180 0 0 72.51 637.2 L4.02 637.2 A5.66929 5.66929 -180 0
+							 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929 -180
+							 0 0 4.02 693.89" class="st12"/>
+				<text x="20.76" y="669.5" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Lieferant <tspan
+							x="12" dy="1.2em" class="st14">freigegeben?</tspan></text>			</g>
+			<g id="shape174-280" v:mID="174" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.2677" cy="687.228" width="76.54" height="13.3228"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>8</text>			</g>
+		</g>
+		<g id="group175-283" transform="translate(742.232,-460.63)" v:mID="175" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({5BA3D965-97AD-4981-8016-775F1EDE05B2})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.175</title>
+			<g id="shape176-284" v:mID="176" v:groupContext="shape" v:layerMember="0" transform="translate(-43.7146,2.31519)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+			</g>
+			<g id="shape175-286" v:mID="175" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="27.1516" cy="686.803" width="141.74" height="18.8036"/>
+				<path d="M0 686.8 L44.58 686.8" class="st19"/>
+			</g>
+		</g>
+		<g id="group177-291" transform="translate(944.382,-205.512)" v:mID="177" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(VERZWEIGUNG)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(10):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt=""
+						v:val="VT4(Ist das Ergebnis der Potentialanalyse / des Q-Gesprächs gelb?)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt=""
+						v:val="VT4(Ist das Ergebnis der Potentialanalyse / des Q-Gesprächs gelb?)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({5211E2A5-25D4-4F6D-8941-662850679A9F})"/>
+			</v:userDefs>
+			<title>Verzweigung</title>
+			<g id="shape177-292" v:mID="177" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="665.543" width="95.49" height="56.6929"/>
+				<path d="M4.02 693.89 L91.47 693.89 A5.66929 5.66929 -180 0 0 96.82 690.09 L104.75 667.42 A5.66929 5.66929 -180 0
+							 0 104.75 663.67 L96.82 640.99 A5.66929 5.66929 -180 0 0 91.47 637.2 L4.02 637.2 A5.66929 5.66929 -180
+							 0 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929
+							 -180 0 0 4.02 693.89 Z" class="st11"/>
+				<path d="M3.69 650.52 L91.8 650.52" class="st12"/>
+				<path d="M4.02 693.89 L91.47 693.89 A5.66929 5.66929 -180 0 0 96.82 690.09 L104.75 667.42 A5.66929 5.66929 -180 0
+							 0 104.75 663.67 L96.82 640.99 A5.66929 5.66929 -180 0 0 91.47 637.2 L4.02 637.2 A5.66929 5.66929 -180
+							 0 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929
+							 -180 0 0 4.02 693.89" class="st12"/>
+				<text x="7.72" y="658.7" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Ist das Ergebnis der <tspan
+							x="12.22" dy="1.2em" class="st14">Potentialanalyse / </tspan><tspan x="12.48" dy="1.2em" class="st14">des Q</tspan>-Gesprächs <tspan
+							x="36.73" dy="1.2em" class="st14">gelb?</tspan></text>			</g>
+			<g id="shape178-300" v:mID="178" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="687.228" width="95.49" height="13.3228"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>10</text>			</g>
+		</g>
+		<g id="group179-303" transform="translate(935.433,-106.299)" v:mID="179" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(PROZESS)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(9):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt=""
+						v:val="VT4(Wirksamkeitsprüfung der Maßnahmen aus der Potentialanalyse / dem Q-Gespräch)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt=""
+						v:val="VT4(Wirksamkeitsprüfung der Maßnahmen aus der Potentialanalyse / dem Q-Gespräch)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({B9E554DE-EC6D-4CA5-9207-48C74AC21851})"/>
+			</v:userDefs>
+			<title>Prozess.534</title>
+			<g id="shape179-304" v:mID="179" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="56.6929" cy="665.543" width="113.39" height="56.6929"/>
+				<path d="M5.67 693.89 L107.72 693.89 A5.66929 5.66929 -180 0 0 113.39 688.22 L113.39 642.87 A5.66929 5.66929 -180
+							 0 0 107.72 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0
+							 5.67 693.89 Z" class="st11"/>
+				<path d="M5.67 693.89 L107.72 693.89 A5.66929 5.66929 -180 0 0 113.39 688.22 L113.39 642.87 A5.66929 5.66929 -180
+							 0 0 107.72 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0
+							 5.67 693.89" class="st12"/>
+				<path d="M3.69 650.52 L109.7 650.52" class="st12"/>
+				<text x="6.93" y="658.7" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Wirksamkeitsprüfung der <tspan
+							x="15.17" dy="1.2em" class="st14">Maßnahmen aus der </tspan><tspan x="4.92" dy="1.2em" class="st14">Potentialanalyse / dem Q</tspan>-<tspan
+							x="37.18" dy="1.2em" class="st14">Gespräch</tspan></text>			</g>
+			<g id="shape180-312" v:mID="180" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="56.6929" cy="687.228" width="113.39" height="13.3228"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>9</text>			</g>
+		</g>
+		<g id="group181-315" transform="translate(985.039,-205.512)" v:mID="181" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(ja)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({A9D45E27-EED4-483F-A938-417FF30932D7})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(ja)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.181</title>
+			<g id="shape182-316" v:mID="182" v:groupContext="shape" v:layerMember="0" transform="translate(-63.7795,30.6616)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="67.3638" y="679.088" width="7.00488" height="10.7998" class="st18"/>
+				<text x="67.36" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ja</text>			</g>
+			<g id="shape181-320" v:mID="181" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="7.08661" cy="715.149" width="141.74" height="18.8036"/>
+				<path d="M7.09 693.89 L7.09 726.69" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="3.58424" y="709.749" width="7.00488" height="10.7998" class="st18"/>
+				<text x="3.58" y="717.85" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ja</text>			</g>
+		</g>
+		<g id="group185-327" transform="translate(892.913,-460.63)" v:mID="185" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(ja)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({9B35B841-508C-4A0F-9783-7275A5D6546B})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(ja)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.185</title>
+			<g id="shape186-328" v:mID="186" v:groupContext="shape" v:layerMember="0" transform="translate(-42.5197,2.31519)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="67.3638" y="679.088" width="7.00488" height="10.7998" class="st18"/>
+				<text x="67.36" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ja</text>			</g>
+			<g id="shape185-332" v:mID="185" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="28.3465" cy="686.803" width="141.74" height="18.8036"/>
+				<path d="M0 686.8 L46.97 686.8" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="24.8441" y="681.403" width="7.00488" height="10.7998" class="st18"/>
+				<text x="24.84" y="689.5" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ja</text>			</g>
+		</g>
+		<g id="group193-339" transform="translate(1135.36,-106.299)" v:mID="193" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(VERZWEIGUNG)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(12):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Sind die Maßnahmen wirksam umgesetzt?)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Sind die Maßnahmen wirksam umgesetzt?)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({57C102C1-1BB1-4B1E-AAE9-6770ED6E6DB7})"/>
+			</v:userDefs>
+			<title>Verzweigung.536</title>
+			<g id="shape193-340" v:mID="193" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.2677" cy="665.543" width="76.54" height="56.6929"/>
+				<path d="M4.02 693.89 L72.51 693.89 A5.66929 5.66929 -180 0 0 77.86 690.09 L85.8 667.42 A5.66929 5.66929 -180 0 0
+							 85.8 663.67 L77.86 640.99 A5.66929 5.66929 -180 0 0 72.51 637.2 L4.02 637.2 A5.66929 5.66929 -180 0
+							 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929 -180
+							 0 0 4.02 693.89 Z" class="st11"/>
+				<path d="M3.69 650.52 L72.85 650.52" class="st12"/>
+				<path d="M4.02 693.89 L72.51 693.89 A5.66929 5.66929 -180 0 0 77.86 690.09 L85.8 667.42 A5.66929 5.66929 -180 0 0
+							 85.8 663.67 L77.86 640.99 A5.66929 5.66929 -180 0 0 72.51 637.2 L4.02 637.2 A5.66929 5.66929 -180 0
+							 0 -1.33 640.99 L-9.27 663.67 A5.66929 5.66929 -180 0 0 -9.27 667.42 L-1.33 690.09 A5.66929 5.66929 -180
+							 0 0 4.02 693.89" class="st12"/>
+				<text x="22.01" y="658.7" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Sind die <tspan
+							x="13.01" dy="1.2em" class="st14">Maßnahmen </tspan><tspan x="21.77" dy="1.2em" class="st14">wirksam </tspan><tspan
+							x="15.01" dy="1.2em" class="st14">umgesetzt?</tspan></text>			</g>
+			<g id="shape194-348" v:mID="194" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.2677" cy="687.228" width="76.54" height="13.3228"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>12</text>			</g>
+		</g>
+		<g id="group195-351" transform="translate(1261.42,-106.299)" v:mID="195" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(PROZESS)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(13):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Lieferanten-Eskalation starten)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Lieferanten-Eskalation starten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({D3A1AC5E-5C8A-4C82-BAF7-E048604BB10B})"/>
+			</v:userDefs>
+			<title>Prozess.538</title>
+			<g id="shape195-352" v:mID="195" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="665.543" width="95.49" height="56.6929"/>
+				<path d="M5.67 693.89 L89.82 693.89 A5.66929 5.66929 -180 0 0 95.49 688.22 L95.49 642.87 A5.66929 5.66929 -180 0
+							 0 89.82 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89 Z" class="st11"/>
+				<path d="M5.67 693.89 L89.82 693.89 A5.66929 5.66929 -180 0 0 95.49 688.22 L95.49 642.87 A5.66929 5.66929 -180 0
+							 0 89.82 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89" class="st12"/>
+				<path d="M3.69 650.52 L91.8 650.52" class="st12"/>
+				<text x="23.73" y="669.5" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Lieferanten-<tspan
+							x="11.97" dy="1.2em" class="st14">Eskalation starten</tspan></text>			</g>
+			<g id="shape196-358" v:mID="196" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="687.228" width="95.49" height="13.3228"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>13</text>			</g>
+		</g>
+		<g id="group197-361" transform="translate(1048.82,-127.559)" v:mID="197" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({0D34183C-BB92-4B7D-9E2C-046DC6F95D8C})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.197</title>
+			<g id="shape198-362" v:mID="198" v:groupContext="shape" v:layerMember="0" transform="translate(-32.557,2.31519)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+			</g>
+			<g id="shape197-364" v:mID="197" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="38.3091" cy="686.803" width="141.74" height="18.8036"/>
+				<path d="M0 686.8 L66.9 686.8" class="st19"/>
+			</g>
+		</g>
+		<g id="group199-369" transform="translate(1221.82,-127.559)" v:mID="199" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(nein)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({AB0E2550-D43A-4F78-8C92-8CFCB762247C})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(nein)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.199</title>
+			<g id="shape200-370" v:mID="200" v:groupContext="shape" v:layerMember="0" transform="translate(-51.065,2.31519)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="62.3584" y="679.088" width="17.0156" height="10.7998" class="st18"/>
+				<text x="62.36" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nein</text>			</g>
+			<g id="shape199-374" v:mID="199" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="19.8011" cy="686.803" width="141.74" height="18.8036"/>
+				<path d="M0 686.8 L29.88 686.8" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="11.2934" y="681.403" width="17.0156" height="10.7998" class="st18"/>
+				<text x="11.29" y="689.5" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nein</text>			</g>
+		</g>
+		<g id="shape206-381" v:mID="206" v:groupContext="shape" v:layerMember="7" transform="translate(1138.19,-219.685)">
+			<title>Start/Ende.206</title>
+			<desc>Ende</desc>
+			<v:custProps>
+				<v:cp v:nameU="Cost" v:lbl="Kosten" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
+						v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="ProcessNumber" v:lbl="Prozessnummer" v:prompt="" v:type="2" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="Owner" v:lbl="Besitzer" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="Function" v:lbl="Funktionsname" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0" v:val="VT4()"/>
+				<v:cp v:nameU="StartDate" v:lbl="Startdatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="EndDate" v:lbl="Enddatum" v:prompt="" v:type="5" v:format="" v:sortKey="" v:invis="false"
+						v:ask="false" v:langID="1031" v:cal="0"/>
+				<v:cp v:nameU="Status" v:lbl="Status" v:prompt="" v:type="4"
+						v:format=";Nicht begonnen;In Bearbeitung;Abgeschlossen;Zurückgestellt;Auf Eingabe wartend" v:sortKey=""
+						v:invis="false" v:ask="false" v:langID="1031" v:cal="0" v:val="VT4()"/>
+			</v:custProps>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="DefaultWidth" v:prompt="" v:val="VT0(0.98425196850394):24"/>
+				<v:ud v:nameU="DefaultHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+				<v:ud v:nameU="ResizeTxtHeight" v:prompt="" v:val="VT0(0.39370078740157):24"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="679.716" width="70.87" height="28.3465"/>
+			<path d="M14.17 693.89 L56.69 693.89 A14.1732 14.1732 -180 0 0 56.69 665.54 L14.17 665.54 A14.1732 14.1732 -180 1 0 14.17
+						 693.89 Z" class="st24"/>
+			<text x="26.09" y="682.12" class="st25" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Ende</text>		</g>
+		<g id="group207-384" transform="translate(1166.54,-162.992)" v:mID="207" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(ja)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({B0E8BBBB-6D7A-4A46-8C25-BADE0416794C})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(ja)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.207</title>
+			<g id="shape208-385" v:mID="208" v:groupContext="shape" v:layerMember="0" transform="translate(-64.6499,-11.2591)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="67.3638" y="679.088" width="7.00488" height="10.7998" class="st18"/>
+				<text x="67.36" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ja</text>			</g>
+			<g id="shape207-389" v:mID="207" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="6.21627" cy="673.228" width="141.74" height="18.8036"/>
+				<path d="M7.09 693.89 L7.09 646.92" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="2.7139" y="667.829" width="7.00488" height="10.7998" class="st18"/>
+				<text x="2.71" y="675.93" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>ja</text>			</g>
+		</g>
+		<g id="group209-396" transform="translate(985.039,-439.37)" v:mID="209" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({B4555D00-E861-4C41-A1D6-A5A69C56FADD})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.209</title>
+			<g id="shape210-397" v:mID="210" v:groupContext="shape" v:layerMember="0" transform="translate(-63.7795,97.9845)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+			</g>
+			<g id="shape209-399" v:mID="209" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="7.08661" cy="782.472" width="141.74" height="18.8036"/>
+				<path d="M7.09 693.89 L7.09 861.33" class="st19"/>
+			</g>
+		</g>
+		<g id="group211-404" transform="translate(1049.79,-240.945)" v:mID="211" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(nein (grün))"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({2D065B22-795F-4CF8-9EF7-ECC38A2798A1})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(nein (grün))"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.211</title>
+			<g id="shape212-405" v:mID="212" v:groupContext="shape" v:layerMember="0" transform="translate(-29.3189,12.1723)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="688.22" width="141.74" height="11.3386"/>
+				<rect x="0" y="682.551" width="141.732" height="11.3386" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="49.1045" y="682.82" width="43.5234" height="10.7998" class="st18"/>
+				<text x="49.1" y="690.92" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nein (grün)</text>			</g>
+			<g id="shape211-409" v:mID="211" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="41.5472" cy="700.392" width="141.74" height="11.3386"/>
+				<path d="M0 700.98 L78.68 700.98" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="19.7856" y="694.992" width="43.5234" height="10.7998" class="st18"/>
+				<text x="19.79" y="703.09" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nein (grün)</text>			</g>
+		</g>
+		<g id="group215-416" transform="translate(837.638,-439.37)" v:mID="215" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(nein)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({9D967715-DEDE-4ED8-B067-3EEDDE48B578})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(nein)"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.215</title>
+			<g id="shape216-417" v:mID="216" v:groupContext="shape" v:layerMember="0" transform="translate(-63.7795,37.7483)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="62.3584" y="679.088" width="17.0156" height="10.7998" class="st18"/>
+				<text x="62.36" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nein</text>			</g>
+			<g id="shape215-421" v:mID="215" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="7.08661" cy="722.236" width="141.74" height="18.8036"/>
+				<path d="M7.09 693.89 L7.09 740.86" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="-1.42113" y="716.836" width="17.0156" height="10.7998" class="st18"/>
+				<text x="-1.42" y="724.94" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>nein</text>			</g>
+		</g>
+		<g id="group218-428" transform="translate(314.919,-439.37)" v:mID="218" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(AM-Lieferant Fall A und Serienlieferant (produktiv))"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({027F935E-B1D7-47B1-9DAC-963CDFC327F8})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(AM-Lieferant Fall A und Serienlieferant (produktiv))"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.218</title>
+			<g id="shape219-429" v:mID="219" v:groupContext="shape" v:layerMember="0" transform="translate(-77.9528,70.8661)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="679.087" width="141.74" height="29.6036"/>
+				<rect x="0" y="664.286" width="141.732" height="29.6036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="19.3425" y="668.288" width="103.047" height="21.5997" class="st23"/>
+				<text x="23.59" y="676.39" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>AM-Lieferant Fall A und <tspan
+							x="19.34" dy="1.2em" class="st14">Serienlieferant (produktiv)</tspan></text>			</g>
+			<g id="shape218-434" v:mID="218" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="-7.08661" cy="749.954" width="141.74" height="29.6036"/>
+				<path d="M-7.09 693.89 L-7.09 861.33" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="-58.6102" y="739.154" width="103.047" height="21.5997" class="st18"/>
+				<text x="-54.36" y="747.25" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>AM-Lieferant Fall A und <tspan
+							x="-58.61" dy="1.2em" class="st14">Serienlieferant (produktiv)</tspan></text>			</g>
+		</g>
+		<g id="group220-442" transform="translate(331.705,-439.37)" v:mID="220" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4(Serienlieferant (produktiv))"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({8551129D-6140-4B29-A4FE-C5540C85A7F0})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4(Serienlieferant (produktiv))"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.220</title>
+			<g id="shape221-443" v:mID="221" v:groupContext="shape" v:layerMember="0" transform="translate(-19.8938,98.5989)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+				<rect v:rectContext="textBkgnd" x="19.3425" y="679.088" width="103.047" height="10.7998" class="st18"/>
+				<text x="19.34" y="687.19" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Serienlieferant (produktiv)</text>			</g>
+			<g id="shape220-447" v:mID="220" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="50.9724" cy="783.086" width="141.74" height="18.8036"/>
+				<path d="M0 693.89 L0 720.82 A8.50394 8.50394 -180 0 0 8.5 729.32 L42.47 729.32 A8.50394 8.50394 0 0 1 50.97 737.83
+							 L50.97 827.12 A8.50394 8.50394 0 0 1 42.47 835.62 L-15.37 835.62 A8.50394 8.50394 -180 0 0 -23.87 844.13
+							 L-23.87 861.33" class="st19"/>
+				<rect v:rectContext="textBkgnd" x="-0.551224" y="777.687" width="103.047" height="10.7998" class="st18"/>
+				<text x="-0.55" y="785.79" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Serienlieferant (produktiv)</text>			</g>
+		</g>
+		<g id="group223-454" transform="translate(646.744,-205.512)" v:mID="223" v:groupContext="group" v:layerMember="4">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:val="VT4({Number})"/>
+				<v:ud v:nameU="vfCurrentGeometry" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideParticipant" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideRemark" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfHideDoc" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:val="VT4(Process)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:val="VT4(Process Right)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:val="VT4(Process Left)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:val="VT4(Process Right Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:val="VT4(Process Left Indented)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:val="VT4(Choose Shape Style)"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(PROZESS)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4({Short Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:val="VT4({Long Name})"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__blnBlob" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Beteiligte__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__Count" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__ZugeordneteDaten__HyperlinkCount" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Anmerkung" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:val="VT4(Process Top)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:val="VT4(Process Down)"/>
+				<v:ud v:nameU="vfDisplayFieldPicture" v:val="VT0(0):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:val="VT4(Short Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:val="VT4(Long Name)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLayout" v:val="VT4(Layout)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:val="VT4(Display Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:val="VT4(Display Marker)"/>
+				<v:ud v:nameU="vfMarkerCount" v:val="VT0(1):26"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__Nummer" v:prompt="" v:val="VT0(7):26"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcess" v:prompt="" v:val="VT4(Standard)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRight" v:prompt="" v:val="VT4(Pfeil rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeft" v:prompt="" v:val="VT4(Pfeil links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessRightIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt rechts)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessLeftIndented" v:prompt=""
+						v:val="VT4(Pfeil doppelt links)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutShapeStyle" v:prompt="" v:val="VT4(Shape Style wählen)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:prompt="" v:val="VT4(Vergabeempfehlung an Einkauf übergeben)"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Beschreibung" v:prompt="" v:val="VT4(Vergabeempfehlung an Einkauf übergeben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessTop" v:prompt="" v:val="VT4(Pfeil oben)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstLayoutProcessDown" v:prompt="" v:val="VT4(Pfeil unten)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayShortName" v:prompt="" v:val="VT4(Kurzname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayLongName" v:prompt="" v:val="VT4(Langname)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayText" v:prompt="" v:val="VT4(Text)"/>
+				<v:ud v:nameU="VIFLOW__Translations__Caption_sstDisplayMarker" v:prompt="" v:val="VT4(Markierungen anzeigen)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({02862D18-C575-422D-8359-6D91917F023C})"/>
+			</v:userDefs>
+			<title>Prozess.1043</title>
+			<g id="shape223-455" v:mID="223" v:groupContext="groupContent" v:layerMember="4">
+				<v:textBlock v:margins="rect(13.3228,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="665.543" width="95.49" height="56.6929"/>
+				<path d="M5.67 693.89 L89.82 693.89 A5.66929 5.66929 -180 0 0 95.49 688.22 L95.49 642.87 A5.66929 5.66929 -180 0
+							 0 89.82 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89 Z" class="st11"/>
+				<path d="M5.67 693.89 L89.82 693.89 A5.66929 5.66929 -180 0 0 95.49 688.22 L95.49 642.87 A5.66929 5.66929 -180 0
+							 0 89.82 637.2 L5.67 637.2 A5.66929 5.66929 -180 0 0 -0 642.87 L0 688.22 A5.66929 5.66929 -180 0 0 5.67
+							 693.89" class="st12"/>
+				<path d="M3.69 650.52 L91.8 650.52" class="st12"/>
+				<text x="7.21" y="664.1" class="st13" v:langID="1031"><v:paragraph v:horizAlign="1"/><v:tabList/>Vergabeempfehlung <tspan
+							x="26.48" dy="1.2em" class="st14">an Einkauf </tspan><tspan x="26.22" dy="1.2em" class="st14">übergeben</tspan></text>			</g>
+			<g id="shape224-462" v:mID="224" v:groupContext="shape" v:layerMember="4" transform="translate(0,-43.3701)">
+				<title>Head</title>
+				<v:userDefs>
+					<v:ud v:nameU="LinkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="DocsAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="RemarkAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="ParticipantAvailable" v:prompt="" v:val="VT0(0):26"/>
+					<v:ud v:nameU="NumberAvailable" v:prompt="" v:val="VT0(1):26"/>
+				</v:userDefs>
+				<v:textBlock v:margins="rect(1.13386,4,0,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="47.7441" cy="687.228" width="95.49" height="13.3228"/>
+				<text x="8.82" y="690.19" class="st16" v:langID="1031"><v:paragraph v:indentLeft="4.82"/><v:tabList/>7</text>			</g>
+		</g>
+		<g id="group225-465" transform="translate(687.402,-262.205)" v:mID="225" v:groupContext="group" v:layerMember="0">
+			<v:userDefs>
+				<v:ud v:nameU="VIFLOW__Stammdaten__Bezeichnung_A" v:val="VT4()"/>
+				<v:ud v:nameU="Shapename" v:val="VT4(Daten)"/>
+				<v:ud v:nameU="VIFLOW__Verwendungsdaten__UniqueID" v:prompt="" v:val="VT4({69CE42DE-6268-4ECE-9DB9-D37979D5A98B})"/>
+				<v:ud v:nameU="VIFLOW__ConnectorText" v:prompt="" v:val="VT4()"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorR" v:prompt="" v:val="VT0(246):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorG" v:prompt="" v:val="VT0(130):26"/>
+				<v:ud v:nameU="VIFLOW__Settings__CompatibilityDocumentMarkColorB" v:prompt="" v:val="VT0(32):26"/>
+				<v:ud v:nameU="VIFLOW__Stammdaten__HyperlinkCount" v:prompt="" v:val="VT0(0):26"/>
+				<v:ud v:nameU="vfMarkerColor" v:prompt="" v:val="VT0(85):26"/>
+			</v:userDefs>
+			<title>Dynamic connector.225</title>
+			<g id="shape226-466" v:mID="226" v:groupContext="shape" v:layerMember="0" transform="translate(-63.7795,-79.1809)">
+				<title>Controller</title>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="70.8661" cy="684.487" width="141.74" height="18.8036"/>
+				<rect x="0" y="675.086" width="141.732" height="18.8036" class="st17"/>
+			</g>
+			<g id="shape225-468" v:mID="225" v:groupContext="groupContent" v:layerMember="0">
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="7.08661" cy="605.307" width="141.74" height="18.8036"/>
+				<path d="M7.09 693.89 L7.09 526.44" class="st19"/>
+			</g>
+		</g>
+	</g>
+</svg>
