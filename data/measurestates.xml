@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rs><r><id>1</id><name>erledigt</name><name_a>erledigt</name_a></r><r><id>2</id><name>in Bearbeitung</name><name_a>in Bearbeitung</name_a></r><r><id>3</id><name>in Prüfung</name><name_a>in Prüfung</name_a></r><r><id>4</id><name>geplant</name><name_a>geplant</name_a></r></rs>

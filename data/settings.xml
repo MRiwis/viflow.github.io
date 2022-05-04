@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings timestamp="1636719041">
+	<Order mergable="true">0</Order>
+	<DisplayText mergable="true">0</DisplayText>
+	<LinkFallback mergable="true">0</LinkFallback>
+	<ReferencedAreasOnly mergable="true">0</ReferencedAreasOnly>
+	<ReferencedInfosOnly mergable="true">0</ReferencedInfosOnly>
+	<RememberLastID mergable="true">0</RememberLastID>
+	<CurrentID mergable="true">1</CurrentID>
+	<CurrentPage mergable="true">1</CurrentPage>
+	<ShowChangesSinceVisit>1</ShowChangesSinceVisit>
+	<LastVisit/>
+	<ZoomWindowPosition/>
+	<ZoomWindowVisible/>
+	<ResultWindowPosition/>
+	<ResultWindowVisible/>
+	<ChangesWindowPosition/>
+	<PropertyWindowPosition/>
+	<NavigationPosition/>
+	<NavigationVisible mergable="true"/>
+	<CurrentUser>0</CurrentUser>
+	<DependentObjects>0</DependentObjects>
+	<LanguageUI/>
+	<LanguageContent/>
+	<FirstRunProcessed/>
+	<CustomLogo mergable="true"></CustomLogo>
+	<LinkList mergable="true">
+		<Link url=""></Link>
+		<Link url=""></Link>
+		<Link url=""></Link>
+	</LinkList>
+	<AddOns mergable="true">
+	</AddOns>
+	<HiddenTabs mergable="true">902</HiddenTabs>
+	<FeedbackURI mergable="true">balazs.ivan@iwis.com</FeedbackURI>
+</settings>

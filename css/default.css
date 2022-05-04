@@ -1,0 +1,1096 @@
+/* -----------------------------------------------------------------------
+/* <copyright file="default.css" company="ViCon GmbH">
+/*     Copyright © ViCon GmbH.
+/* </copyright>
+/* <summary>
+/*		This file provides all default styles for
+/*		this web apps content.
+/* </summary>
+/* -----------------------------------------------------------------------*/
+
+/* ~~~ general ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+html {																															/* general settings */
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 0.8em;
+	height: 100%;
+	overflow: hidden;
+}
+
+html a {																														/* default settings for links */
+	text-decoration: none;
+	outline: none;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	height: 100%;
+	min-width: 1024px;																											/* navibar keeps its style when browser-window is scaled */
+	overflow: hidden;
+}
+
+div:focus {
+	outline: none;
+}
+
+.clearBoth { clear: both; }
+
+/* ~~~ header ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#header {
+	height: 50px;
+	padding: 5px;
+}
+
+#header img {																													/* ViFlow logo */
+	float: right;
+	height: 100%;
+	padding-left: 50px;
+}
+
+#location {
+	position: relative;
+	line-height: 50px;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+#whereami {
+	list-style-type: none;
+	display: inline;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+#whereami li {
+	line-height: normal;
+	display: inline-block;
+}
+
+#whereami li a, #whereami li span {
+	padding-left: 13px;
+	padding-right: 12px;
+}
+
+#whereami li a span{
+	padding-right: 0;
+}
+
+#whereami li img {
+	width: auto;
+	height: auto;
+	vertical-align: middle;
+	padding: 2px;
+	float: left;
+}
+
+/* ~~~ error message ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#errormessage {
+	position: absolute;
+	z-index: 99999999;
+	background-color: #FFFFFF;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	overflow: auto;
+}
+
+#errormessage p {
+	font-style: italic;
+	font-size: smaller;
+}
+
+/* ~~~ splash ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#splash #background {
+	position: absolute;
+	z-index: 9999997;
+	opacity: 0.25;
+	background-color: #000000;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	overflow: auto;
+}
+
+#splash #main {
+	background-image: url(../images/ui/splash.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: transparent;
+	position: absolute;
+	z-index: 99999998;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	bottom: 0px;
+	margin: auto;
+	width: 500px;
+	height: 335px;
+}
+
+#splash #main #title {
+	position: absolute;
+	font-size: 26pt;
+	color: #828282;
+	top: 95px;
+	left: 50px;
+	right: 50px;
+}
+
+#splash #main #loader {
+	position: absolute;
+	bottom: 15px;
+}
+
+#splash #main #copyright {
+	position: absolute;
+	bottom: 20px;
+	left: 50px;
+	right: 50px;
+}
+
+.animation {
+	width: 100%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: -10px;
+	margin-bottom: -10px;
+	overflow: hidden;
+}
+
+.animation span {
+	border-radius: 5px;
+	display: inline-block;
+	position: relative;
+	width: 1px;
+	height: 1px;
+	position: absolute;
+}
+
+.animation .dot1 {
+	margin-right: 10px;
+	animation: loading 4s ease-in-out infinite;
+	-moz-animation: loading 4s ease-in-out infinite;
+	-webkit-animation: loading 4s ease-in-out infinite;
+}
+
+.animation .dot2 {
+	animation: loading 4s ease-in-out 0.3s infinite;
+	-moz-animation: loading 4s ease-in-out 0.3s infinite;
+	-webkit-animation: loading 4s ease-in-out 0.3s infinite;
+}
+
+.animation .dot3 {
+	animation: loading 4s ease-in-out 0.6s infinite;
+	-moz-animation: loading 4s ease-in-out 0.6s infinite;
+	-webkit-animation: loading 4s ease-in-out 0.6s infinite;
+}
+
+@keyframes loading {
+	from {
+		transform: translatex(500px) scale(5.0);
+		opacity: 0;
+	}
+	50% {
+		transform: translatex(250px) scale(5.0);
+		opacity: 1;
+	}
+	to {
+		transform: translatex(0px) scale(5.0);
+		opacity: 0;
+	}
+}
+
+@-webkit-keyframes loading {
+	from {
+		-webkit-transform: translatex(500px) scale(5.0);
+		opacity: 0;
+	}
+	50% {
+		-webkit-transform: translatex(250px) scale(5.0);
+		opacity: 1;
+	}
+	to {
+		-webkit-transform: translatex(0px) scale(5.0);
+		opacity: 0;
+	}
+}
+
+/* ~~~ main navigation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#navibar {																																
+	height: 31px;																												/* fixed size is required because header and processNav must fit together */	
+	border-bottom: 1px solid;
+	border-top: 1px solid;	
+	border-left: 1px solid;
+	border-right: 1px solid; 
+}
+
+#navibar ul {																														
+	margin: 0px;																										
+	padding: 7px 0 5px 5px;
+}
+
+#navibar ul li {																												/* style for navigation points */		
+	list-style-type: none;																										/* no bullets */
+	display: inline;																											/* list elements are next to each other */
+	cursor: pointer;																											/* cursor gets to a hand - simulating a link */		
+	padding: 0;
+	margin: 0;														
+}
+
+#navibar ul li a, #navibar ul li a:link {	
+	padding: 7px 12px 8px 13px;	
+	margin: 0px auto;
+}
+
+#navibar ul li a:focus, #navibar ul li a:hover, #whereami li a:hover {	
+	padding: 7px 12px 8px 13px;																										
+	margin: 0 -1px 0 -1px;
+	border: 1px solid;
+	-moz-border-radius: 5px;																									/* round corners */
+ 	border-radius: 5px;
+}
+
+ul.dropdown li:first-child a:focus, ul.dropdown li:first-child a:hover {	
+	margin: 0 0 -1px 0 !important;
+}
+
+ul.dropdown li a:focus, ul.dropdown li a:hover {	
+	margin: -1px 0 !important;
+}
+
+.placeHolder {
+	width: 1px;
+	height: 31px !important;
+	border-left: 1px solid;
+	border-right: 1px solid;
+	padding: 7px 0 7px 0 !important;
+	margin: 0 6px 0 3px !important;
+}
+
+.menuActive {	
+	padding: 7px 13px 9px 13px;	
+	margin: 0 -1px 0 -1px !important;
+	border: 1px solid;
+	-moz-border-radius: 5px;
+ 	border-radius: 5px;
+}
+
+.menuActive:hover {	
+	padding: 7px 13px 9px 13px;	
+	margin: 0 -1px 0 -1px !important;
+	border: 1px solid;
+	-moz-border-radius: 5px;
+ 	border-radius: 5px;
+}
+
+#navibar ul li a img {																											/* images in navigation points */
+	vertical-align: middle;																										/* images on a level with text */
+	margin: 0 6px 0 0;
+	border: none;	
+}
+
+#naviHelpLink img {
+	vertical-align: middle;																										/* images on a level with text */
+	margin: 0 4px 0 4px;
+	border: none;
+}
+
+#navibar form {																													/* search element in the navi */
+	float: right;
+	margin: -22px 20px 0 0;
+	line-height: 1;
+	padding: 0;
+}
+
+#searchField {
+	width: 200px;
+	margin: 0 5px 0 0 ;
+	padding: 0;
+	line-height: 1;
+	border-top: 1px solid;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-bottom: 1px solid;
+}
+
+#searchButton {
+	margin: 0 0 -3px 0;
+	padding: 0;
+	line-height: 1;
+}
+
+ul.dropdown {
+	position: absolute;
+	z-index: 300000;
+	margin-top: 0;
+	display: none;
+	overflow: auto;
+	max-height: 500px;
+}
+
+ul.dropdown li a {																												/* style for navigation points */				
+	clear: none;
+	border: 1px solid;
+	-moz-border-radius: 5px;
+ 	border-radius: 5px;	
+ 	list-style-type: none;																										/* no bullets */
+	display: block;																												/* list elements are next to each other */
+	margin: 0px auto;
+	margin-bottom: -1px !important;																								/* for consistant distance of each navigation point to his border */																											
+	padding: 8px 15.5px 8px 12px;																								/* distance of the text to its border */	
+	cursor: pointer;																											/* cursor gets to a hand - simulating a link */
+	white-space: nowrap;
+}
+
+/* ~~~ object navigation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#processesOverview { display: none;} 												
+#informationOverview { display: none;}
+#areaOverview { display: none;}
+
+#objectNav {																													/* blue part with pinToTheEdge-button, and process overview inside */
+	display:none;
+	border-right: 1px solid;
+	border-top: 1px solid;
+	padding: 0px 15px 0px 5px;
+	margin: 0px;	
+	position: absolute;																											/* for filling the whole height of the screen */
+	left: 0px !important;
+	top: 93px !important;																													/* fixed size is required because header and processNav must fit together */
+	bottom: 0px;																												/* fixed size is required because header and processNav must fit together */
+	z-index: 10;																												/* processNav is in the foreground when it´s open */
+	min-width: 150px;
+	width: 300px;
+	max-width: 60%;
+}
+
+#objectNav > div {
+	overflow: hidden;
+}
+
+.button {																														/* general style for buttons */
+	font-size: 1em;
+	padding: 5px;
+	border-top: 1px solid;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-bottom: 1px solid;
+	float: right;
+	margin-bottom: 0px;
+	margin-top: 13px;
+}
+
+.tabstrip {																														/* contains the 3 tabs for processes and information inside */																												
+	margin: 0px;
+	padding: 0px;
+	line-height: 1;
+	white-space: nowrap;
+}
+
+.tabstrip ul {																													/* contains 3 tabs for processes and information */																												
+	margin: 20px 10px;
+	padding: 0px;
+}
+
+.tabstrip ul li {																												/* gradient and border for the 3 tabs of processes and information */		
+	list-style-type: none;																										
+	display: inline;	
+	cursor: pointer;																																												
+}
+
+.tabstrip ul li a {
+	-webkit-border-top-left-radius: 8px;																						/* round corners */
+	-webkit-border-top-right-radius: 8px;
+	-moz-border-radius-topleft: 8px;
+	-moz-border-radius-topright: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	border-bottom: 1px solid;
+	border-top: 1px solid;	
+	border-left: 1px solid;
+	border-right: 1px solid; 
+	margin: 5px 0px 0px 0px;																																																																											
+	padding: 5px 6px 5px 8px;	
+}
+
+.tabstrip ul li a:first-child {
+	border-left: 1px solid;
+}																																/* left border of the first tab matches with the border of GlobalProcessTree */
+																																/* style for the tab when clicking */		
+
+.tabstripActive { 																												/* style for the selected tab */																											
+	border-bottom: 1px  solid !important; 
+	border-top: 1px solid !important; 
+	border-right: 1px solid; 
+	border-bottom: 1px solid !important;
+}
+
+.treeView {																														/* white window for processes and information */
+	position: absolute;																											/* for filling the whole height of the screen */
+	top: 39px;
+	bottom: 10px;
+	left: 15px;
+	right: 15px;
+	padding: 0px;
+	overflow: scroll;																											/* too much content will be hidden and must be scrolled */	
+	white-space: nowrap;																										/* no automatic line breaks text in GlobalProcessTree */																									
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+	border-left: 1px solid;
+	line-height: 1.0;
+	display: none;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-ms-touch-action: none;
+	touch-action: manipulation;
+}
+
+.treeViewNoTabs {																												/* white window for processes and information */
+	top: 10px;
+}
+
+.treeView~ul {
+	padding-left: 0px;
+}
+
+.treeView ul {
+	list-style-type: none;
+	padding-left: 10px !important;
+}
+
+.treeView ul:first-child {
+	padding-left: 1px !important;
+}
+
+.treeView li {
+	cursor: pointer;
+	margin: 2px;
+}
+
+.treeView img {
+	width: auto;
+	height: auto;
+	vertical-align: middle;
+	margin: 2px;
+}
+
+.treeView span {
+	line-height: normal;
+	padding-left: 3px;
+}
+
+.treeViewSelectedItem {
+	border-style: dotted;
+	border-width: 1px;
+	margin-left: -1px;
+	margin-top: -1px;
+	margin-bottom: -1px;
+	display: block;
+}
+
+.slider {
+	width: 15px;	
+	position: absolute;
+	bottom: 0px;
+	top: 0px;
+	right: 0px;	
+	cursor: ew-resize;
+	-ms-touch-action: none;
+	touch-action: none;
+	background-image: url(../images/ui/slide_v.gif);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.cornerSlider {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	cursor: se-resize;
+	-ms-touch-action: none;
+	touch-action: none;
+}
+
+/* ~~~ content ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#content {
+	position: absolute;																											/* for filling the whole height of the screen */
+	top: 93px;
+	bottom: 0px;
+	left: 0px;																													/* content is fixed left and right */
+	right: 0px;	
+	white-space: nowrap;																											
+	overflow: scroll;																											/* content can be scrolled if the image is bigger than the screen */	
+	-webkit-overflow-scrolling: touch;
+	-ms-touch-action: none;
+	touch-action: none;
+	z-index: 0;																													/* content stays behind the processNav */
+}
+
+#svgport {
+	position: absolute;
+}
+
+#printimage {
+	display: none;
+}
+
+#pagetabs {
+	display: none;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: auto;
+}
+
+#pagetabs ul {
+	margin: 10px 2px 6px 10px;
+}
+
+/* ~~~ properties window ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#propertiesWindow {																												/* properties window, that is shown when clicked onto a shape */
+	position: absolute;																			
+	width: 850px;
+	height: 500px;
+	min-width: 600px;
+	min-height: 400px;
+	padding: 10px 10px 40px 12px;
+	top: 50%;
+	left: 50%;
+	z-index: 200000;		
+	border-bottom: 1px solid;
+	border-top: 1px solid;	
+	border-left: 1px solid;
+	border-right: 1px solid; 	
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px; 
+	-webkit-box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2);
+ 	-moz-box-shadow: 0px 0px 3px 2px rgba(0,0, 0, 0.2);
+	box-shadow: 0px 0px 3px 2px rgba(0, 0, 0, 0.2); 
+	display: none;
+}
+
+#propertiesWindow h1 {																											/* tile of the shape */
+	font-size: 110%;
+	font-weight: bold;
+	float: left;
+}
+
+#propertiesWindowIcon[src="file:///"] , #propertiesWindowIcon[src="file://"], #propertiesWindowIcon[src=""]
+{
+	display:none;	
+}
+
+#propertiesWindowIcon
+{
+	width: 16px;
+	height: 16px;
+	margin-top: -2px;
+	margin-bottom: 0px;
+	margin-right: 8px;
+	vertical-align: middle;
+}
+
+#propertiesWindowNavigation {
+	height: auto;
+	margin: 0px;
+	padding: 0px;
+	width: auto;
+}
+
+#propertiesWindowNavigation ul {
+	float: left;
+	margin: 0px 10px 0px 0px;
+	padding: 0px;
+}
+
+#propertiesWindowNavigation ul li {
+	list-style-type: none;																					
+	cursor: pointer;	
+	padding: 5px;	
+	margin-bottom: 3px;											
+	border-top: 1px solid;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-bottom: 1px solid;	
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px; 
+}
+
+#propertiesWindowNavigation ul li[disabled=true] {
+	pointer-events: none;
+}
+
+#propertiesWindowNavigation ul li:hover {
+	border-top: 1px solid;
+	border-right: 1px solid;
+	border-left: 1px solid;
+	border-bottom: 1px solid;	
+}
+
+#propertiesWindowContent {
+	height: inherit;
+	min-height: inherit;
+	width: auto;
+	overflow: auto;
+	margin-right: 2px;
+}
+
+#propertiesWindowContent iframe {
+	border: none;
+	width: 100%;
+	height: 100%;
+} 
+
+#propertiesWindow .boxTop {
+	padding: 0px;
+}
+
+#propertiesWindow .boxTitle {
+	text-indent: inherit;
+	width: 100%;
+}
+
+#propertiesWindowProgress {
+	position: absolute;
+	top: 31px;
+}
+
+#propertiesWindow .boxTop h1 span {
+	height: 20px;
+	width: 20px;
+	background-image: url(../images/ui/prop_close.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	float: right;
+	margin: -1px 0px -1px 0px;
+	cursor: pointer;
+}
+
+#propertiesWindow .boxTop h1 span:hover { background-image: url(../images/ui/prop_close_hover.png); }
+
+#propertiesWindowNavigation a:link, #propertiesWindowNavigation a:hover, #propertiesWindowNavigation a:active, #propertiesWindowNavigation a:visited {
+	border-bottom: none !important;
+}
+
+#propertiesWindow a:link, #propertiesWindow a:hover, #propertiesWindow a:active, #propertiesWindow a:visited {
+	border-bottom: 1px dotted;
+} 
+
+/* ~~~ box definition ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.box {
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	border-bottom: 1px solid;
+	border-top: 1px solid;	
+	border-left: 1px solid;
+	border-right: 1px solid; 
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px; 
+}
+
+.boxTitle {
+	font-size: 110%;
+	text-indent: 15px;
+	cursor: default;
+}
+
+.boxTop {
+	float: left;
+	width: 100%;
+	-webkit-border-top-left-radius: 15px;																						/* round corners */
+	-webkit-border-top-right-radius: 15px;
+	-moz-border-radius-topleft: 15px;
+	-moz-border-radius-topright: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+	padding: 5px 0;
+	margin-bottom: 10px;
+}
+
+.boxTop h1 {
+	padding: 0px;
+	margin: 0px;
+}
+
+.boxTop.Movable h1 {
+	cursor: move;
+	-ms-touch-action: none;
+	touch-action: none;
+}
+
+.boxTop h1 span {
+	height: 20px;
+	width: 20px;
+	background-image: url(../images/ui/close.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	float: right;
+	margin: -1px 10px -1px 0px;
+	cursor: pointer;
+}
+
+.boxTop h1 span:hover { background-image: url(../images/ui/close_hover.png); }
+
+/* ~~~ search result box ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#resultBox {
+	width: 600px;
+	min-width: 400px;
+	height: 400px;
+	min-height: 400px;
+	z-index: 200000;		
+	display: none;
+}
+
+#resultBox .tabstrip {
+	margin-top: -12px;
+}
+
+#resultData {
+	position: absolute;
+	top: 63px;
+	bottom: 10px;
+	left: 10px;
+	right: 10px;
+	margin: 0 0 1px 0;
+	padding: 5px 15px 5px 5px;
+	overflow: auto;
+	border-bottom: 1px solid;
+	border-left: 1px solid;
+	border-right: 1px solid;
+	display: inherit !important;
+}
+
+#resultBoxProgress {
+	position: absolute;
+	top: 50px;
+	margin: 12px;
+}
+
+#resultData span {
+	display: block;
+	padding: 10px;
+}
+
+#resultData a.underline:link, #resultData a.underline:hover, #resultData a.underline:active, #resultData a.underline:visited {
+	border-bottom: 1px dotted;
+} 
+
+#resultData img {
+	width: auto;
+	height: auto;
+	vertical-align: middle;
+	margin: 2px 5px 2px 0;
+	border: none;
+}
+
+#resultData tr:first-child {
+	display: none;
+}
+
+#resultData td:first-child {
+	display: none;
+}
+
+#resultData td:last-child {
+	display: none;
+}
+
+/* ~~~ what's changed box ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#whatsChangedBox {
+	width: 800px;
+	min-width: 800px;
+	height: 400px;
+	min-height: 400px;
+	z-index: 200000;		
+	display: none;
+}
+
+#whatsChangedBoxProgress {
+	position: absolute;
+	top: 12px;
+	margin: 12px;
+}
+
+#whatsChangedBoxData {
+	position: absolute;
+	top: 40px;
+	bottom: 25px;
+	left: 12px;
+	right: 12px;
+	margin: 0 0 1px 0;
+	padding: 5px 15px 5px 5px;
+	overflow: auto;
+	background-color: #FFFFFF;
+}
+
+#whatsChangedBoxData a.underline:link, #whatsChangedBoxData a.underline:hover, #whatsChangedBoxData a.underline:active, #whatsChangedBoxData a.underline:visited {
+	border-bottom: 1px dotted;
+} 
+
+#whatsChangedBoxData img {
+	width: auto;
+	height: auto;
+	vertical-align: middle;
+	margin: 2px 5px 2px 0;
+}
+
+#whatsChangedBoxMarker {
+	position: absolute;
+	bottom: 0px;
+	left: 12px;
+	margin: 0 auto;
+}
+
+#rssButton {
+	display: none;
+	margin: -16px 10px -2px 0;
+	padding: 0;
+	line-height: 1;
+	float: right;
+	cursor: pointer;
+}
+
+/* ~~~ settings box ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#settingsBox {
+	max-width: 350px;
+	z-index: 1000;
+	display: none;
+}
+
+.settingsOption {
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.settingsBoxDiv {
+	cursor: default;
+	margin: -10px 15px 20px 15px;
+}
+
+.settingsBoxDiv h2 {
+	font-size: 100%;
+	display: block;
+	margin-bottom: 5px;
+	-moz-user-select:none;																										/* no text select for firefox */
+	-webkit-user-select: none;																									/* no téxt select for safari */
+}
+
+.settingsBoxDiv:last-child {
+	border-bottom: none;
+	padding-bottom: 0px;
+}
+
+.settingsBoxDiv {
+	border-bottom: 1px solid;
+	padding-bottom: 10px;
+}
+
+.settingsBoxDiv input, .settingsBoxDiv select {
+	display: inline;
+	outline: none;
+	margin-left: 0px;
+}
+
+.settingsBoxDiv select {
+	width: 100%;
+}
+
+.settingsBoxDiv p { 
+	display: inline; 
+	margin-right: 5px;
+}
+
+/* ~~~ zoom box ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+#zoomBox {
+	z-index: 100000;
+	display: none;
+	width: 300px;
+}
+
+#zoomBoxText {
+	margin: 0 0 7px 15px;
+}
+
+#zoomGraphic {
+	background-color: #FFFFFF;
+	width: 240px;
+	height: 170px;
+	float: left;
+	margin: 0px 0px 15px 15px;
+	-ms-touch-action: none;
+	touch-action: none;
+}
+
+#zoomEvents {
+	width: 100px;
+	height: 100px;
+}
+
+#zoomGraphic embed, #zoomRectangle, #zoomEvents {
+	position: absolute;
+	-ms-touch-action: none;
+	touch-action: none;
+}
+
+#zoomRectangle {
+	border: 2px solid highlight;
+	display: none;
+}
+
+#zoomBox ul {
+	float: left;
+	padding: 0px;
+	margin: -5px 10px 0px 15px;
+}
+
+#zoomBox ul li {
+	list-style-type:none;
+	margin-top: 6px;
+	padding: 0px;
+	margin-left: 0px;
+	cursor: pointer;
+}
+
+#zoomSheet {
+	width: 15px;
+	height: 20px;
+	background-image: url(../images/ui/zoom/sheet.gif);
+}
+
+#zoomSheet:hover { background-image: url(../images/ui/zoom/sheet_hover.gif); }
+
+#zoomPlus {
+	width: 15px;
+	height: 15px;
+	background-image: url(../images/ui/zoom/in.gif); 
+}
+
+#zoomPlus:hover { background-image: url(../images/ui/zoom/in_hover.gif); }
+
+.zoomStep {
+	width: 15px;
+	height: 6px;
+	background-image: url(../images/ui/zoom/step.gif); 
+}
+
+.zoomStep:hover { background-image: url(../images/ui/zoom/step_active.gif); }
+
+.activeZoomStep {
+	width: 15px;
+	height: 6px;
+	background-image: url(../images/ui/zoom/step_active.gif); 
+}
+
+#zoomMinus {
+	width: 15px;
+	height: 15px;
+	background-image: url(../images/ui/zoom/out.gif);
+}
+
+#zoomMinus:hover { background-image: url(../images/ui/zoom/out_hover.gif); }
+
+/* ~~~ property window content ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ */
+
+.propTable {
+	width: 100%;
+	border-spacing: 10px;
+}
+
+.propTable caption {
+	padding: 10px;
+	padding-bottom: 0px;
+	text-align: left;
+}
+
+.propTable .propTable {
+	margin: -10px;
+}
+
+.propTable th, .propTable td {
+	text-align: left;
+	vertical-align: top;
+}
+
+.propTable th {
+	white-space: nowrap;
+}
+
+.propTable .para {
+	padding-top: 1em;
+}
+
+.propTable td {
+	white-space: pre-wrap;
+}
+
+/* activation will cause #5082! 
+.hideEmpty td {
+	empty-cells: hide;
+}
+*/
+
+.propTable:not(.sortable) {
+	border-bottom: 1px dashed;
+	margin-bottom: 10px;
+}
+
+.propTable:not(.sortable):last-child {
+	border-bottom: none;
+	margin-bottom: 0px;
+}
+
+.propTable:not(.sortable) td:last-child {
+	width: 100%;
+}
+
+.sortable {
+	border-spacing: 0 !important;
+	padding: 5px;
+}
+
+.sortable > tr > td, .sortable > tr > th {
+	padding: 5px;
+}
+
+.sortable > tr > th {
+	cursor: pointer;
+}
+
+.sortable > tr > th:not(.sorted_asc):not(.sorted_desc):after {
+	content: " \25B4\25BE";
+}
+
+.sortable > tr > th:not(.sorted_asc):after {
+	content: " \25BE";
+}
+
+.sortable > tr > th:not(.sorted_desc):after {
+	content: " \25B4";
+}

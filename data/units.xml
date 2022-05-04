@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rs><r><id>1</id><name>Tag</name><name_a>Tag</name_a></r><r><id>2</id><name>Stunde</name><name_a>Stunde</name_a></r><r><id>4</id><name>Monat</name><name_a>Monat</name_a></r><r><id>5</id><name>Jahr</name><name_a>Jahr</name_a></r><r><id>6</id><name>Minute</name><name_a>Minute</name_a></r><r><id>8</id><name>Halbjahr</name><name_a>Halbjahr</name_a></r><r><id>9</id><name>Quartal</name><name_a>Quartal</name_a></r><r><id>10</id><name>Woche</name><name_a>Woche</name_a></r><r><id>11</id><name>Sekunde</name><name_a>Sekunde</name_a></r></rs>
