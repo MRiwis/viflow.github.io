@@ -1,0 +1,327 @@
+﻿<!DOCTYPE html>
+<html xmlns:mso="urn:schemas-microsoft-com:office:office" xmlns:msdt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882">
+    <head>
+        <title>viflow WebModel</title>
+
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />							<!-- for ie to use the newest web standards -->
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="cache-control" content="no-cache" />							<!-- cache is erased each time the site will be reloaded -->
+        <meta http-equiv="expires" content="0" />										<!-- cache is erased each time the site will be reloaded -->
+		<meta name="viewport" content="user-scalable=no, width=1200" />					<!-- specify the iOS view port -->
+
+		<meta name="application-name" content="viflow WebModel"/>
+		<meta name="msapplication-tooltip" content="viflow WebModel" />
+		<meta name="msapplication-starturl" content="index.html" />
+
+		<meta name="apple-mobile-web-app-capable" content="yes" />
+		<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+		<link rel="icon" href="images/ui/favicon.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="images/ui/favicon.ico" type="image/x-icon" />
+		<link rel="apple-touch-icon" href="images/ui/apple-touch-icon.png" />		
+
+		<link rel="stylesheet" href="css/default.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="css/colors.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="css/print.css" type="text/css" media="print" />
+
+        <!--[if IE]>
+        <style type="text/css">@import url(./css/ie.css);</style>
+        <![endif]-->
+
+        <script type="text/javascript" src="js/ViCon.ViFlow.WebModel.js"></script>
+
+<!-- ~~~ BEGIN: prevent error message if scripting is enabled ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+		<script type="text/javascript">
+			//<![CDATA[
+				document.write('<style type="text/css"> #errormessage { display: none; } </style >');
+			//]]>
+		</script>
+
+<!-- ~~~ END: prevent error message if scripting is enabled ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+    
+<!--[if gte mso 9]><xml>
+<mso:CustomDocumentProperties>
+<mso:_dlc_DocId msdt:dt="string">IWIS-973617058-8</mso:_dlc_DocId>
+<mso:_dlc_DocIdItemGuid msdt:dt="string">e6168f40-cc0d-4cba-80a9-0ff31f8c0635</mso:_dlc_DocIdItemGuid>
+<mso:_dlc_DocIdUrl msdt:dt="string">https://myiwis.sharepoint.com/sites/DoMaS/MQMalt/_layouts/15/DocIdRedir.aspx?ID=IWIS-973617058-8, IWIS-973617058-8</mso:_dlc_DocIdUrl>
+</mso:CustomDocumentProperties>
+</xml><![endif]-->
+</head>
+    <body>
+
+<!-- ~~~ fixed layers ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+
+		<div id="errormessage">
+			<h1 id="err_h1">Whoops! We are sorry – WebModel cannot be displayed :-(</h1>
+			<h2 id="err_h2">There are some possible causes and we would like you to check the following:</h2>
+			<ul>
+				<li id="err_li1">Did you enable JavaScript within your browser? JavaScript is a prerequisite for being able to provide you with great user experience.</li>
+				<li id="err_li2">
+					In dependency of a crashed browser session or interrupted network connection your settings might got corrupted.	You may
+					reset them clicking this link:
+					<a href="index.html?resetsettings=true" title="Reset your WebModel settings...">[^]</a>
+				</li>
+				<li id="err_li3">Your administrator disabled some required plug-ins necessary to be able to run this application. You might contact him/her?!</li>
+				<li id="err_li4">
+					Some components got corrupted within your operating system or something other went very, very wrong. Don't hesitate to
+					contact our support team, so we can try our best to help you solving these problems as soon as possible. You will find
+					more information at:
+					<a href="http://support.vicon.biz" title="Open ViCon support website..." target="_blank">http://support.vicon.biz</a>
+				</li>
+			</ul>
+		</div>
+
+		<div id="splash">
+			<div id="background"></div>
+			<div id="main">
+				<div id="title"></div>
+				<div id="loader" class="animation">
+					<span class="dot1"></span>
+					<span class="dot2"></span>
+					<span class="dot3"></span>
+				</div>
+				<div id="copyright">Copyright &copy; 2000-2016 ViCon GmbH</div>
+			</div>
+		</div>
+
+<!-- ~~~ header ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+	
+        <div id="header">
+			<img id="logo" src="images/ui/logo.png" alt="Logo" title="Logo" />
+			<div id="location">
+				<!--Location:-->
+				<ul id="whereami"></ul>
+			</div>
+        </div>
+
+<!-- ~~~ main navigation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+        <div id="navibar">
+            <ul>
+                <li id="naviProcesses"><a id="naviProcessesLink" href="#processesOverviewTab" title="View Processes">Processes</a></li>
+                <li id="naviInformation"><a id="naviInformationLink" href="#informationOverviewTab" title="View Information">Information</a></li>
+                <li id="naviAreas"><a id="naviAreasLink" href="#areaOverviewTab" title="View Areas">Areas</a></li>
+                <li class="placeHolder"></li>
+                <li id="naviHistory"><a id="naviHistoryLink" href="#navibar" title="View Changes">Changes</a></li>
+                <li id="naviZoom"><a id="naviZoomLink" href="#navibar" title="Zoom Graphic"><img src="images/ui/nav_zoom.gif" alt="Zoom"/>Zoom</a></li>
+                <li id="naviFeedback"><a id="naviFeedbackLink" href="#navibar" title="Provide Your Feedback"><img src="images/ui/nav_feedback.gif" alt="Feedback"/>Feedback</a></li>
+                <li id="hyperlinkMenu"><a id="hyperlinkMenuLink" href="#navibar" title="Recommended Links"><img src="images/ui/nav_links.gif" alt="Hyperlinks"/>Hyperlinks <img alt="" title="Show hyperlinks" src="images/ui/nav_link_arrow.png" /></a>
+					<ul id="hyperlinkMenuUl" class="dropdown"></ul>
+				</li>
+                <li class="placeHolder"></li>
+                <li id="naviSettings"><a id="naviSettingsLink" href="#navibar" title="Change Settings"><img src="images/ui/nav_settings.gif" alt="Settings" />Settings</a></li>
+                <li id="naviHelp"><a id="naviHelpLink" href="#navibar" title="Get Help"><img src="images/ui/nav_help.gif" alt="Help" />Help</a></li>
+            </ul>
+            <form id="searchForm" action="#">
+				<input type="text" size="17" maxlength="50" title="Search" value="Find..." id="searchField" onfocus="if (this.value == WebModel.UI.Translations.getTranslation('webmodel.ui.value.' + this.id.toLowerCase(), this.value)) { this.value = ''; } this.select();" onblur="if (!this.value.length) { this.value = WebModel.UI.Translations.getTranslation('webmodel.ui.value.' + this.id.toLowerCase(), this.value); }" />
+				<input type="image" src="images/ui/nav_search.gif" title="Click to search" alt="Click to search" id="searchButton"/>
+            </form>
+            <div class="clearBoth"></div>
+			<ul id="contextmenu" class="dropdown"></ul>
+        </div>
+
+<!-- ~~~ object navigation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+        <div id="objectNav">
+           
+<!-- process overview -->
+           <div id="processOverview"> 
+                <div  class="tabstrip">
+                    <ul>
+                        <li><a class="tabstripActive" href="#globalProcessTree" id="globalProcessTab" title="Viel all Processes">All Processes</a></li>
+                        <li><a class="" href="#myProcessTree" id="myProcessTab" title="View my Processes">My Processes</a></li>
+                    </ul>
+                </div> <!-- end: tabstrip -->
+                          
+                <div class="treeView" id="globalProcessTree"></div>
+                <div class="treeView" id="myProcessTree"></div>
+    		</div> <!-- end: processesOverview -->
+            
+<!-- information overview -->            
+			<div id="informationOverview"> 
+                <div class="tabstrip">
+                    <ul>
+                        <li><a class="tabstripActive" href="#globalInformationTree" id="globalInformationTab" title="View all Information">All Information</a></li>
+						<li><a class="" href="#myInformationTree" id="myInformationTab" title="View my Information">My Information</a></li>
+                    </ul>
+                </div> <!-- end: tabstrip -->
+                          
+                <div class="treeView" id="globalInformationTree"></div>
+                <div class="treeView" id="myInformationTree"></div>
+    		</div> <!-- end: informationOverview -->
+            
+<!-- area overview -->            
+			<div id="areaOverview"> 
+                <div class="tabstrip">
+                    <ul>
+                        <li><a class="tabstripActive" href="#globalAreaTree" id="globalAreaTab" title="View all Areas">All Areas</a></li>
+                        <li><a class="" href="#myAreaTree" id="myAreaTab" title="View my Areas">My Areas</a></li>
+                    </ul>
+                </div> <!-- end: tabstrip -->
+                          
+                <div class="treeView" id="globalAreaTree"></div>
+                <div class="treeView" id="myAreaTree"></div>
+    		</div> <!-- end: areaOverview -->
+            
+			<div id="navWindowSlider" class="slider" title="Drag here for resizing window"></div>
+                                                                        
+        </div> <!-- end: processNav -->
+        
+<!-- ~~~ graphical content ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+		<div id="content"><embed id="svgport" type="image/svg+xml" src="images/ui/empty.svg" width="100%" height="100%" /></div>
+		<div id="pagetabs" class="tabstrip"></div>
+		
+<!-- ~~~ properties window ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+        <div id="propertiesWindow" class="box" tabindex="0">
+			<div class="boxTop Movable">
+				<h1 class="boxTitle" id="propertiesWindowTitle"><img id="propertiesWindowIcon" src="" />Object Name<span /></h1>	
+            </div>
+			<div class="clearBoth"></div>   
+            <div id="propertiesWindowNavigation">
+                <ul id="propertiesWindowTabs">
+                    <!--
+						flag bits:
+						~ 1 process
+						~ 2 information
+						~ 3 area
+					-->
+					<li flags="0x7" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="general">
+						<a id="tab_general" href="#propertiesWindow" title="View general Information">General</a>
+					</li>
+                    <li flags="0x3" tabmask="0x4" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="criteria">
+						<a id="tab_criteria" href="#propertiesWindow" title="View Criteria">Criteria</a>
+					</li>
+                    <li flags="0x2" tabmask="0x80" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="transmission">
+						<a id="tab_transmission" href="#propertiesWindow" title="View Transmission Types">Transmission Types</a>
+					</li>
+                    <li flags="0x7" tabmask="0x1" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="history">
+						<a id="tab_history" href="#propertiesWindow" title="View History">History</a>
+					</li>
+                    <li flags="0x7" tabmask="0x2" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="userfields">
+						<a id="tab_userfields" href="#propertiesWindow" title="View User defined Fields">User defined Fields</a>
+					</li>
+                    <li flags="0x7" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="references">
+						<a id="tab_references" href="#propertiesWindow" title="View References">References</a>
+					</li>
+                    <li flags="0x1" tabmask="0x8" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="participants">
+						<a id="tab_participants" href="#propertiesWindow" title="View Participants">Participants</a>
+					</li>
+                    <li flags="0x1" tabmask="0x10" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="information">
+						<a id="tab_information" href="#propertiesWindow" title="View assigned Information">Information</a>
+					</li>
+                    <li flags="0x1" tabmask="0x20" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="kpis">
+						<a id="tab_kpis" href="#propertiesWindow" title="View Key Performance Indicators">KPIs</a>
+					</li>
+                    <li flags="0x1" tabmask="0x40" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="bcps">
+						<a id="tab_bcps" href="#propertiesWindow" title="View Business Critical Points">BCPs</a>
+					</li>
+                    <li flags="0x6" tabmask="0x100" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="distribution">
+						<a id="tab_distribution" href="#propertiesWindow" title="View Distribution">Distribution</a>
+					</li>
+                    <li flags="0x2" tabmask="0x200" onclick="WebModel.UI.PropertyWindow.loadTab(this.id); return false;" id="management">
+						<a id="tab_management" href="#propertiesWindow" title="View Management">Management</a>
+					</li>
+                </ul>
+            </div>
+			<div id="propertiesWindowProgress" class="animation">
+				<span class="dot1"></span>
+				<span class="dot2"></span>
+				<span class="dot3"></span>
+			</div>
+            <div id="propertiesWindowContent"></div>
+            <img id="propertiesWindowSlider" src="images/ui/resize.png" title="Drag here for resizing window" alt="Drag here for resizing window" class="cornerSlider" />
+            <div class="clearBoth"></div>      
+        </div>
+        
+<!-- ~~~ dialogs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+        <div id="settingsBox" class="box">
+			<div class="boxTop">
+				<h1 class="boxTitle" id="settingsBoxTitle">Settings<span /></h1>
+			</div>
+			<div class="clearBoth"></div>
+			<form action="#">
+				<div class="settingsBoxDiv">
+					<h2 id="personalize">Personalize for</h2>
+					<select id="user"></select>
+					<div class="settingsOption"><input id="dependents" type="checkbox" value="1" /><p id="displaydependent" onclick="document.getElementById('dependents').checked = !document.getElementById('dependents').checked; return false;">Display Objects of dependent Areas</p></div>
+				</div>
+				<div id="languageUI" class="settingsBoxDiv">
+					<h2 id="uilanguagelabel">Interface language</h2>
+					<select id="uilanguage"></select>
+					<h2 id="contentlanguagelabel">Content language</h2>
+					<select id="contentlanguage"></select>
+				</div>
+				<div id="whatsChangedBoxCheck" class="settingsBoxDiv">
+					<div class="settingsOption"><input id="showchanges" type="checkbox" value="0" /><p id="hideInfoText" onclick="document.getElementById('showchanges').checked = !document.getElementById('showchanges').checked; return false;">Display latest Changes on Startup</p></div>
+				</div>
+			</form>
+		</div>
+		
+		<div id="zoomBox" class="box">
+			<div class="boxTop Movable">
+				<h1 class="boxTitle" id="zoomBoxTitle">Zoom<span /></h1>
+			</div>
+			<div class="clearBoth"></div>
+			<p id="zoomBoxText">Choose your desired zoom area.</p>
+			<div id="zoomGraphic">
+				<div id="zoomEvents"></div>
+				<div id="zoomRectangle"></div>
+			</div>
+			<ul id="zoomFunctions">
+				<li id="zoomSheet" title="Fit to Page"></li>
+				<li id="zoomPlus" title="Zoom in"></li>
+				<li id="zoom200" class="zoomStep" title="200%"></li>
+				<li id="zoom175" class="zoomStep" title="175%"></li>
+				<li id="zoom150" class="zoomStep" title="150%"></li>
+				<li id="zoom125" class="zoomStep" title="125%"></li>
+				<li id="zoom100" class="zoomStep" title="100%"></li>
+				<li id="zoom75" class="zoomStep" title="75%"></li>
+				<li id="zoom50" class="zoomStep" title="50%"></li>
+				<li id="zoom25" class="zoomStep" title="25%"></li>
+				<li id="zoomMinus" title="Zoom out"></li>
+			</ul>
+		</div> 
+
+		<div id="resultBox" class="box" tabindex="0">
+			<div class="boxTop Movable">
+				<h1 class="boxTitle" id="resultBoxTitle">Search Results<span /></h1>
+			</div>
+			<div class="clearBoth"></div>
+            <div id="resulttabs" class="tabstrip">
+                <ul>
+                    <li><a class="tabstripActive" id="result_all" title="Viel all">All</a></li>
+                    <li><a class="" id="result_processes" title="View Processes">Processes</a></li>
+                    <li><a class="" id="result_information" title="View Information">Information</a></li>
+                    <li><a class="" id="result_areas" title="View Areas">Areas</a></li>
+                </ul>
+            </div> <!-- end: tabstrip -->
+			<div id="resultData"></div>
+			<div id="resultBoxProgress" class="animation">
+				<span class="dot1"></span>
+				<span class="dot2"></span>
+				<span class="dot3"></span>
+			</div>
+            <img id="resultBoxSlider" src="images/ui/resize.png" title="Drag here for resizing window" alt="Drag here for resizing window" class="cornerSlider" />
+            <div class="clearBoth"></div>      
+		</div> 
+
+		<div id="whatsChangedBox" class="box">
+			<div class="boxTop Movable">
+				<h1 class="boxTitle" id="whatsChangedBoxTitle">Latest Changes<span /></h1>
+				<img src="images/ui/nav_rss.gif" title="Open RSS Feed" alt="Open RSS Feed" id="rssButton" />
+			</div>
+			<div class="clearBoth"></div>
+			<div id="whatsChangedBoxData"></div>
+			<div id="whatsChangedBoxProgress" class="animation">
+				<span class="dot1"></span>
+				<span class="dot2"></span>
+				<span class="dot3"></span>
+			</div>
+            <img id="whatsChangedBoxSlider" src="images/ui/resize.png" title="Drag here for resizing window" alt="Drag here for resizing window" class="cornerSlider" />
+            <div class="clearBoth"></div>
+			<div id="whatsChangedBoxMarker" class="settingsBoxDiv">
+				<div class="settingsOption"><input id="whatsChangedBoxRead" type="checkbox" value="0" /><p id="whatsChangedBoxReadLabel" onclick="document.getElementById('whatsChangedBoxRead').checked = !document.getElementById('whatsChangedBoxRead').checked; return false;">Mark all Items as read when closing this Window</p></div>
+			</div>
+		</div> 
+    </body>
+</html>
