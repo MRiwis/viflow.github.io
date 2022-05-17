@@ -6,16 +6,17 @@
       }
      
     ],
-    {
+   
   "auth": {
     "identityProviders": {
       "azureActiveDirectory": {
         "registration": {
-          "openIdIssuer": "https://login.microsoftonline.com/1ade38ac-be67-458e-a52c-fae98ad3afa8/v2.0",
+          "openIdIssuer": "https://login.microsoftonline.com/<TENANT_ID>/v2.0",
           "clientIdSettingName": "AZURE_CLIENT_ID",
           "clientSecretSettingName": "AZURE_CLIENT_SECRET"
         }
       }
     }
   }
+
 }
